@@ -4,6 +4,7 @@ David.Turner@twosigma.com
 Grega.Preseren@snt-svetovanje.si
 Mukhammad.khalilov@helpag.com
 Thanat.Sirithawornsant@dionach.com
+adam@apiary.io
 adnan.shammout@live.fi
 ahmadsherif24@gmail.com
 alvaro.hoyos@onelogin.com
@@ -13,6 +14,7 @@ an7i21@gmail.com
 anagawat@fb.com
 antirais@gmail.com
 asgrant@oakland.edu
+bazy@safecomp.com.txt
 bmartin@tenable.com
 bshastry@sec.t-labs.tu-berlin.de
 carnil@debian.org
@@ -44,6 +46,7 @@ i.elsayed92@gmail.com
 insaneboarder234@gmail.com
 jared@jaredbeck.com
 jfolkins@threathound.com
+jody@plot.ly
 jpv@gumcode.com
 jtjisgod@gmail.com
 kamil.frankowicz@cert.pl
@@ -56,6 +59,7 @@ kuestatv@gmail.com
 kurt@seifried.org
 labs@sysdream.com
 larry0@me.com
+lenonleite@gmail.com.txt
 lhinds@redhat.com
 liusscs@163.com
 ljames@flashpoint-intel.com
@@ -67,7 +71,9 @@ matteo@beccati.com
 matthew.sullivan@workiva.com
 matthieu.chevrier@synhack.fr
 mcatanzaro@gnome.org
+micaksica@gmx.com
 mikeycgto@gmail.com
+montel.florent@gmail.com.txt
 naveen.velusamy@comodo.com
 neal@fb.com
 officialyogeshmodi@gmail.com
@@ -75,10 +81,12 @@ parichay1012@gmail.com
 patrick@puiterwijk.org
 penghua@silence.com.cn
 pwchen@tencent.com
+qazbnm456@gmail.com
 radimre83@gmail.com
 ramadhan@cybersecurity.my
 reed@reedloden.com
 ruigu@cs.columbia.edu
+saloh2@student.monash.edu
 scott.tenaglia@invincea.com
 scott@paragonie.com
 sdcampbell68@live.com
@@ -86,8 +94,9 @@ sean.dillon@risksense.com
 stefan.kanthak@nexgo.de
 strparser@gmail.com
 sylvain.corlay@gmail.com
-terms-of-use-accepted.txt
 thomas@orgis.org
+tom@dxw.com.txt
 tschmid@ernw.de
+us3r777@n0b0.so.txt
 wireghoul@gmail.com
 zise.shi@dbappsecurity.com.cn
