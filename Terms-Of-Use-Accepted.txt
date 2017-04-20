@@ -36,6 +36,7 @@ cor3sm4sh3r@gmail.com
 cptest311@frontier.com
 crich@thedefaced.org
 daniel@elttam.com.au
+danny@snyk.io
 davea42@linuxmail.org
 david@gnedt.at
 dennis@dety.eu
@@ -143,6 +144,7 @@ thom@chef.io
 thomas@orgis.org
 tom@dxw.com
 tschmid@ernw.de
+ulsh@mapbox.com
 uriahl@jfrog.com
 us3r777@n0b0.so
 wireghoul@gmail.com
