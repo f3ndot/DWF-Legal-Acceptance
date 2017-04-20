@@ -75,6 +75,7 @@ jfolkins@threathound.com
 jliggitt@redhat.com
 jody@plot.ly
 john.bjorkhaug@nttsecurity.com
+john@betterment.com
 jpv@gumcode.com
 jtjisgod@gmail.com
 justin@justinsteven.com
@@ -106,6 +107,7 @@ matteo@beccati.com
 matthew.sullivan@workiva.com
 matthieu.chevrier@synhack.fr
 maxime@cyberwatch.fr
+mbrooks@snap.com
 mcatanzaro@gnome.org
 me@cydrobolt.com
 micaksica@gmx.com
