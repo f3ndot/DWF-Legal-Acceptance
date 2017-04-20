@@ -66,6 +66,7 @@ hanley.shun@centurioninfosec.sg
 helpme@gmail.com
 hongkun.zeng@dbappsecurity.com.cn
 hsadkhk@gmail.com
+huyngocbk@gmail.com
 i.elsayed92@gmail.com
 insaneboarder234@gmail.com
 jared@jaredbeck.com
@@ -98,6 +99,7 @@ mail.bourbon@gmail.com
 mail@jensge.org
 marcin@teodorczyk.info
 martin.gubri@framasoft.org
+mathias.morbitzer@aisec.fraunhofer.de
 mattd@bugfuzz.com
 matteo@beccati.com
 matthew.sullivan@workiva.com
@@ -127,6 +129,7 @@ radimre83@gmail.com
 ramadhan@cybersecurity.my
 reed@reedloden.com
 rioru@seraphicsquad.com
+robin.williams@rsmus.com
 rockindaworld207@gmail.com
 ruigu@cs.columbia.edu
 sajeeb.lohani@bulletproof.sh
@@ -147,6 +150,7 @@ thom@chef.io
 thomas@orgis.org
 tom@dxw.com
 tschmid@ernw.de
+tyler.price@rsmus.com
 ulsh@mapbox.com
 uriahl@jfrog.com
 us3r777@n0b0.so
