@@ -1,212 +1,144 @@
 Delivered-To: kurt@seifried.org
-Received: by 10.176.65.42 with SMTP id j39csp754146uad;
-        Thu, 20 Apr 2017 08:54:20 -0700 (PDT)
-X-Received: by 10.202.227.145 with SMTP id a139mr4327957oih.201.1492703660745;
-        Thu, 20 Apr 2017 08:54:20 -0700 (PDT)
-Return-Path: <huyngocbk@gmail.com>
-Received: from mail-io0-x232.google.com (mail-io0-x232.google.com. [2607:f8b0:4001:c06::232])
-        by mx.google.com with ESMTPS id o130si3560307oif.295.2017.04.20.08.54.20
+Received: by 10.176.65.42 with SMTP id j39csp750791uad;
+        Thu, 20 Apr 2017 08:45:30 -0700 (PDT)
+X-Received: by 10.55.26.153 with SMTP id l25mr7804497qkh.9.1492703130446;
+        Thu, 20 Apr 2017 08:45:30 -0700 (PDT)
+Return-Path: <Robin.Williams@rsmus.com>
+Received: from mail1.bemta8.messagelabs.com (mail1.bemta8.messagelabs.com. [216.82.243.193])
+        by mx.google.com with ESMTPS id x127si6246773qkb.117.2017.04.20.08.45.30
         for <kurt@seifried.org>
         (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
-        Thu, 20 Apr 2017 08:54:20 -0700 (PDT)
-Received-SPF: pass (google.com: domain of huyngocbk@gmail.com designates 2607:f8b0:4001:c06::232 as permitted sender) client-ip=2607:f8b0:4001:c06::232;
+        Thu, 20 Apr 2017 08:45:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robin.williams@rsmus.com designates 216.82.243.193 as permitted sender) client-ip=216.82.243.193;
 Authentication-Results: mx.google.com;
-       dkim=pass header.i=@gmail.com;
-       spf=pass (google.com: domain of huyngocbk@gmail.com designates 2607:f8b0:4001:c06::232 as permitted sender) smtp.mailfrom=huyngocbk@gmail.com;
-       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gmail.com
-Received: by mail-io0-x232.google.com with SMTP id a103so76550957ioj.1
-        for <kurt@seifried.org>; Thu, 20 Apr 2017 08:54:20 -0700 (PDT)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
-        d=gmail.com; s=20161025;
-        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
-        bh=/xW1/i3zeLbCu68hIgn1R9+PTi4re1O5GblbtAtxXHY=;
-        b=Dosl5R/eQTH6lAwKXaY2wO8eitPMo89WIiKU1zOSDA9fkm2p1kB/ENVd3kbT/sgEE7
-         b1WrRiGNuWT8AINpjNo23bkmzZ5w/EcqfFEZlVxI0BqExyZeCNsqP/Ogoa4T6QH0euYT
-         cuKgHrYH4IxnRDgmGXIbwpg4D9dlHIthOasDV/16Vo8ScWYeJ3PA00Jqc+F4qgd6zMfQ
-         w3oI02RJiOn8t3Wvi0ECOfOPtGCKjMGHr1QT9aJZIJ239SLKXT4QlAkDfVaT9mOKzaO0
-         gJCtpb+W3Syk7dFA3k6P4zn6+RQk294YzFowD9AsahiG0nftTk06a6MxeBpRCpJCoeAH
-         Q1eA==
-X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
-        d=1e100.net; s=20161025;
-        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
-         :message-id:subject:to;
-        bh=/xW1/i3zeLbCu68hIgn1R9+PTi4re1O5GblbtAtxXHY=;
-        b=o0zWroV0qLLEG6U/S18OY9jwfkW9fpeOywKK1eBMj3+hyEAl0K276UeMluInA5NWI8
-         ng3dKe7pwshyyuFWUr1MnLRGmul0BJrNn748r9vQMz97sonBRsiROMLnfn86OwrAgJUM
-         0D9qhXoxzkbvBAyWII7Wg1Yi7Vyao2cofa/K7ee4ifaA1SCVxRpX7McetVGI9aadxSK4
-         DCP+7cAY3jo4409md7zChw3OC3XcWqv00yHkvUvNB/0zWHDW0HjVjwmyUzG11LtJCB5J
-         r9NrXI7jV0N1cYdYHBw7R5pY+JRCRcIrc4UTBwSNTmgdbjfY4j+iOXbecTz9/6956kgR
-         DR9A==
-X-Gm-Message-State: AN3rC/43fuygsAq1AefIe6O/pySa0s9CdIuE91DE0PjhG+ZMpL+ip9+T
-	yypnlAaAqWTdBi9FIYI/8hTUKHOZNg==
-X-Received: by 10.36.101.210 with SMTP id u201mr4565795itb.118.1492703645175;
- Thu, 20 Apr 2017 08:54:05 -0700 (PDT)
-MIME-Version: 1.0
-Received: by 10.107.6.106 with HTTP; Thu, 20 Apr 2017 08:54:04 -0700 (PDT)
-In-Reply-To: <20170420154442.58112.16758@bigbox.local>
-References: <20170420154442.58112.16758@bigbox.local>
-From: DAU Huy Ngoc <huyngocbk@gmail.com>
-Date: Thu, 20 Apr 2017 17:54:04 +0200
-Message-ID: <CAKniM0QjBnUa+DgU0jvQov3aWY0Vat7420srqcsdzuH+DwDmew@mail.gmail.com>
-Subject: Re: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for huyngocbk@gmail.com
+       spf=pass (google.com: domain of robin.williams@rsmus.com designates 216.82.243.193 as permitted sender) smtp.mailfrom=Robin.Williams@rsmus.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=rsmus.com
+Return-Path: <Robin.Williams@rsmus.com>
+Received: from [216.82.242.41] by server-1.bemta-8.messagelabs.com id 47/84-02011-A97D8F85; Thu, 20 Apr 2017 15:45:30 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFvrDIsWRWlGSWpSXmKPExsXilJQirzvz+o8
+  IgxuLrC2aN65lcWD0ePBaJ4AxijUzLym/IoE1o/1mG1PBev2K5kt/2RoYH+h1MXJxCAl0M0pc
+  2zuDHcI5wShx9fNHti5GTg42ASOJ75fms4PYIgLaEtNfHweLCwvESty9cIwFIh4n0bXuLBOEb
+  STxv+UWK4jNIqAqMb2tBSzOK2Aj8eZrA1hcSMBE4ubSqWA2p4CpxNb2fWDzGQXEJL6fWgNWzy
+  wgLnHryXwwW0JAQGLJnvPMELaoxMvH/1ghbHmJBS+fA9VwANVrSqzfpQ/RaiNx+9gFdghbUWJ
+  K90N2iBMEJU7OfMIygVFkFpINsxC6ZyHpnoWkexaS7gWMrKsYNYpTi8pSi3SNjPSSijLTM0py
+  EzNzdA0NLPRyU4uLE9NTcxKTivWS83M3MQJjpZ6BgXEH45bmqEOMkhxMSqK8anN/RAjxJeWnV
+  GYkFmfEF5XmpBYfYpTh4FCS4LW7BpQTLEpNT61Iy8wBRi1MWoKDR0mENxIkzVtckJhbnJkOkT
+  rFqCglzrsAJCEAksgozYNrgyWKS4yyUsK8jAwMDEI8BalFuZklqPKvGMU5GJWEeVVApvBk5pX
+  ATX8FtJgJaPFZP7DFJYkIKakGRgbNslWOKbdNPhzxvu9tPkfmW9Hf6hbRjzfXvckLWDRtndPb
+  Dx3MHpNYvA+Gafrn8O9muXCbzX7icW6x3C1TLU74VsksL5QP9asLUTTvt5i9P6qRpdTe9MFvo
+  /a4o6I/nvqrHSxQWi5xP3Dx5cU/7d1UrqyRLS3+J55/LqzVsOLhWmM5rcwkJZbijERDLeai4k
+  QAQYOTlQ8DAAA=
+X-Env-Sender: Robin.Williams@rsmus.com
+X-Msg-Ref: server-7.tower-218.messagelabs.com!1492703117!15238991!15
+X-Originating-IP: [66.98.100.31]
+X-StarScan-Received:
+X-StarScan-Version: 9.4.12; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 24133 invoked from network); 20 Apr 2017 15:45:29 -0000
+Received: from unknown (HELO fwddmzces01.rsmus.com) (66.98.100.31)
+  by server-7.tower-218.messagelabs.com with RC4-SHA encrypted SMTP; 20 Apr 2017 15:45:29 -0000
+Received: from unknown (HELO fwdexhub01.mcgladrey.rsm.net) ([10.46.6.91])
+  by fwddmzces01.rsmus.com with ESMTP; 20 Apr 2017 10:45:29 -0500
+Received: from FWDEXMBX08.mcgladrey.rsm.net ([fe80::b852:660:1690:98da]) by
+ fwdexhub01.mcgladrey.rsm.net ([fe80::e0ac:dcf3:47e1:f1f5%11]) with mapi id
+ 14.03.0301.000; Thu, 20 Apr 2017 10:45:27 -0500
+From: "Williams, Robin" <Robin.Williams@rsmus.com>
 To: "kurt@seifried.org" <kurt@seifried.org>
-Content-Type: multipart/alternative; boundary=001a114606f886be84054d9b26bf
+Subject: Re: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for
+ robin.williams@rsmus.com
+Thread-Topic: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for
+ robin.williams@rsmus.com
+Thread-Index: AQHSuez88NL5w+AOi0mRTiWgppZIKqHOdy4A
+Date: Thu, 20 Apr 2017 15:45:28 +0000
+Message-ID: <1AF67C8A-3D1E-44FE-81A0-618B88945EC1@rsmus.com>
+References: <20170420154423.58112.1479@bigbox.local>
+In-Reply-To: <20170420154423.58112.1479@bigbox.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.45.188.5]
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <805DDC1E407E5B4DBE9A2B234FEAA209@mcgladrey.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
 
---001a114606f886be84054d9b26bf
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: quoted-printable
-
-I accept
-
-On Thursday, April 20, 2017, <kurt@seifried.org> wrote:
-
-> This is a confirmation email sent from CVE request form at
-> https://iwantacve.org/ asking you to accept the MITRE CVE Terms of Use
-> (assuming you filled out the CVE form and want one, we can't use the data
-> until you accept the MITRE CVE Terms of Use).
->
-> Simply quote the email and reply with "I accept" at the top if you agree
-> to the MITRE CVE Terms of Use and we will add it to the DWF MITRE CVE Ter=
-ms
-> of Use acceptance data at https://github.com/
-> distributedweaknessfiling/DWF-Legal-Acceptance/tree/master/Terms-Of-Use
->
-> If you did not submit a CVE request to the DWF you can safely ignore this
-> message, however we may resend it at some point in the future, if you don=
-'t
-> want any future emails simply reply with "unsubscribe" or "DON'T SEND ME
-> THIS EMAIL EVER AGAIN" and I'll add your email address to the block list =
-so
-> we don't spam you with these, please note that this will prevent you from
-> being able to accept the MITRE CVE Terms of Use via the DWF automatically
-> in future (you'll have to manually ask). But again, if you have no idea
-> what a CVE is then you can ignore this/ask to be added to the block list
-> with no problems.
->
-> MITRE CVE Terms of Use
->
-> LICENSE
->
-> Submissions: For all materials you submit to the Common Vulnerabilities
-> and Exposures (CVE=C2=AE), you hereby grant to The MITRE Corporation (MIT=
-RE) and
-> all CVE Numbering Authorities (CNAs) a perpetual, worldwide, non-exclusiv=
-e,
-> no-charge, royalty-free, irrevocable copyright license to reproduce,
-> prepare derivative works of, publicly display, publicly perform,
-> sublicense, and distribute such materials and derivative works. Unless
-> required by applicable law or agreed to in writing, you provide such
-> materials on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-> KIND, either express or implied, including, without limitation, any
-> warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or
-> FITNESS FOR A PARTICULAR PURPOSE.
->
-> CVE Usage: MITRE hereby grants you a perpetual, worldwide, non-exclusive,
-> no-charge, royalty-free, irrevocable copyright license to reproduce,
-> prepare derivative works of, publicly display, publicly perform,
-> sublicense, and distribute Common Vulnerabilities and Exposures (CVE=C2=
-=AE). Any
-> copy you make for such purposes is authorized provided that you reproduce
-> MITRE's copyright designation and this license in any such copy.
->
-> DISCLAIMERS
->
-> ALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN PROVIDED BY MITRE ARE
-> PROVIDED ON AN "AS IS" BASIS AND THE CONTRIBUTOR, THE ORGANIZATION HE/SHE
-> REPRESENTS OR IS SPONSORED BY (IF ANY), THE MITRE CORPORATION, ITS BOARD =
-OF
-> TRUSTEES, OFFICERS, AGENTS, AND EMPLOYEES, DISCLAIM ALL WARRANTIES, EXPRE=
-SS
-> OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE
-> INFORMATION THEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIE=
-S
-> OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
->
-> A copy is available at https://github.com/distributedweaknessfiling/DWF-
-> Database/blob/master/TermsOfUse.md
->
-> To contact the DWF either hit reply, or email kurt@seifried.org
-> <javascript:;> manually with your question/concerns/etc.
->
->
-
---=20
-DAU Huy Ngoc
-
-Tel : 06 26 89 23 61
-
---001a114606f886be84054d9b26bf
-Content-Type: text/html; charset=UTF-8
-Content-Transfer-Encoding: quoted-printable
-
-I accept<br><br>On Thursday, April 20, 2017,  &lt;<a href=3D"mailto:kurt@se=
-ifried.org">kurt@seifried.org</a>&gt; wrote:<br><blockquote class=3D"gmail_=
-quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1=
-ex">This is a confirmation email sent from CVE request form at <a href=3D"h=
-ttps://iwantacve.org/" target=3D"_blank">https://iwantacve.org/</a> asking =
-you to accept the MITRE CVE Terms of Use (assuming you filled out the CVE f=
-orm and want one, we can&#39;t use the data until you accept the MITRE CVE =
-Terms of Use).<br>
-<br>
-Simply quote the email and reply with &quot;I accept&quot; at the top if yo=
-u agree to the MITRE CVE Terms of Use and we will add it to the DWF MITRE C=
-VE Terms of Use acceptance data at <a href=3D"https://github.com/distribute=
-dweaknessfiling/DWF-Legal-Acceptance/tree/master/Terms-Of-Use" target=3D"_b=
-lank">https://github.com/<wbr>distributedweaknessfiling/DWF-<wbr>Legal-Acce=
-ptance/tree/master/<wbr>Terms-Of-Use</a><br>
-<br>
-If you did not submit a CVE request to the DWF you can safely ignore this m=
-essage, however we may resend it at some point in the future, if you don&#3=
-9;t want any future emails simply reply with &quot;unsubscribe&quot; or &qu=
-ot;DON&#39;T SEND ME THIS EMAIL EVER AGAIN&quot; and I&#39;ll add your emai=
-l address to the block list so we don&#39;t spam you with these, please not=
-e that this will prevent you from being able to accept the MITRE CVE Terms =
-of Use via the DWF automatically in future (you&#39;ll have to manually ask=
-). But again, if you have no idea what a CVE is then you can ignore this/as=
-k to be added to the block list with no problems.<br>
-<br>
-MITRE CVE Terms of Use<br>
-<br>
-LICENSE<br>
-<br>
-Submissions: For all materials you submit to the Common Vulnerabilities and=
- Exposures (CVE=C2=AE), you hereby grant to The MITRE Corporation (MITRE) a=
-nd all CVE Numbering Authorities (CNAs) a perpetual, worldwide, non-exclusi=
-ve, no-charge, royalty-free, irrevocable copyright license to reproduce, pr=
-epare derivative works of, publicly display, publicly perform, sublicense, =
-and distribute such materials and derivative works. Unless required by appl=
-icable law or agreed to in writing, you provide such materials on an &quot;=
-AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either exp=
-ress or implied, including, without limitation, any warranties or condition=
-s of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR =
-PURPOSE.<br>
-<br>
-CVE Usage: MITRE hereby grants you a perpetual, worldwide, non-exclusive, n=
-o-charge, royalty-free, irrevocable copyright license to reproduce, prepare=
- derivative works of, publicly display, publicly perform, sublicense, and d=
-istribute Common Vulnerabilities and Exposures (CVE=C2=AE). Any copy you ma=
-ke for such purposes is authorized provided that you reproduce MITRE&#39;s =
-copyright designation and this license in any such copy.<br>
-<br>
-DISCLAIMERS<br>
-<br>
-ALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN PROVIDED BY MITRE ARE P=
-ROVIDED ON AN &quot;AS IS&quot; BASIS AND THE CONTRIBUTOR, THE ORGANIZATION=
- HE/SHE REPRESENTS OR IS SPONSORED BY (IF ANY), THE MITRE CORPORATION, ITS =
-BOARD OF TRUSTEES, OFFICERS, AGENTS, AND EMPLOYEES, DISCLAIM ALL WARRANTIES=
-, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE US=
-E OF THE INFORMATION THEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WA=
-RRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.<br>
-<br>
-A copy is available at <a href=3D"https://github.com/distributedweaknessfil=
-ing/DWF-Database/blob/master/TermsOfUse.md" target=3D"_blank">https://githu=
-b.com/<wbr>distributedweaknessfiling/DWF-<wbr>Database/blob/master/<wbr>Ter=
-msOfUse.md</a><br>
-<br>
-To contact the DWF either hit reply, or email <a href=3D"javascript:;" oncl=
-ick=3D"_e(event, &#39;cvml&#39;, &#39;kurt@seifried.org&#39;)">kurt@seifrie=
-d.org</a> manually with your question/concerns/etc.<br>
-<br>
-</blockquote><br><br>-- <br>DAU Huy Ngoc<br><br>Tel : 06 26 89 23 61<br>
-
---001a114606f886be84054d9b26bf--
+SSBhY2NlcHQuDQoNClJvYmluIFdpbGxpYW1zDQpTZW5pb3IgQXNzb2NpYXRlLCBTZWN1cml0eSBh
+bmQgUHJpdmFjeQ0KDQpSU00gVVMgTExQDQoxODYxIEludGVybmF0aW9uYWwgRHJpdmUsIFN1aXRl
+IDQwMCwgTWNMZWFuLCBWQSwgMjIxMDINCkQ6IDcwMy4zMzYuNjQxNCBGOiA3MDMuMzM2LjY0MDEg
+SSBFOiBSb2Jpbi5XaWxsaWFtc0Byc211cy5jb20gSSBXOiB3d3cucnNtdXMuY29tIDxodHRwOi8v
+d3d3LnJzbXVzLmNvbS8+DQoNCg0KDQpPbiA0LzIwLzE3LCAxMTo0NCBBTSwgImt1cnRAc2VpZnJp
+ZWQub3JnIiA8a3VydEBzZWlmcmllZC5vcmc+IHdyb3RlOg0KDQogICAgVGhpcyBpcyBhIGNvbmZp
+cm1hdGlvbiBlbWFpbCBzZW50IGZyb20gQ1ZFIHJlcXVlc3QgZm9ybSBhdCBodHRwczovL2l3YW50
+YWN2ZS5vcmcvIGFza2luZyB5b3UgdG8gYWNjZXB0IHRoZSBNSVRSRSBDVkUgVGVybXMgb2YgVXNl
+IChhc3N1bWluZyB5b3UgZmlsbGVkIG91dCB0aGUgQ1ZFIGZvcm0gYW5kIHdhbnQgb25lLCB3ZSBj
+YW4ndCB1c2UgdGhlIGRhdGEgdW50aWwgeW91IGFjY2VwdCB0aGUgTUlUUkUgQ1ZFIFRlcm1zIG9m
+IFVzZSkuDQoNCiAgICBTaW1wbHkgcXVvdGUgdGhlIGVtYWlsIGFuZCByZXBseSB3aXRoICJJIGFj
+Y2VwdCIgYXQgdGhlIHRvcCBpZiB5b3UgYWdyZWUgdG8gdGhlIE1JVFJFIENWRSBUZXJtcyBvZiBV
+c2UgYW5kIHdlIHdpbGwgYWRkIGl0IHRvIHRoZSBEV0YgTUlUUkUgQ1ZFIFRlcm1zIG9mIFVzZSBh
+Y2NlcHRhbmNlIGRhdGEgYXQgaHR0cHM6Ly9naXRodWIuY29tL2Rpc3RyaWJ1dGVkd2Vha25lc3Nm
+aWxpbmcvRFdGLUxlZ2FsLUFjY2VwdGFuY2UvdHJlZS9tYXN0ZXIvVGVybXMtT2YtVXNlDQoNCiAg
+ICBJZiB5b3UgZGlkIG5vdCBzdWJtaXQgYSBDVkUgcmVxdWVzdCB0byB0aGUgRFdGIHlvdSBjYW4g
+c2FmZWx5IGlnbm9yZSB0aGlzIG1lc3NhZ2UsIGhvd2V2ZXIgd2UgbWF5IHJlc2VuZCBpdCBhdCBz
+b21lIHBvaW50IGluIHRoZSBmdXR1cmUsIGlmIHlvdSBkb24ndCB3YW50IGFueSBmdXR1cmUgZW1h
+aWxzIHNpbXBseSByZXBseSB3aXRoICJ1bnN1YnNjcmliZSIgb3IgIkRPTidUIFNFTkQgTUUgVEhJ
+UyBFTUFJTCBFVkVSIEFHQUlOIiBhbmQgSSdsbCBhZGQgeW91ciBlbWFpbCBhZGRyZXNzIHRvIHRo
+ZSBibG9jayBsaXN0IHNvIHdlIGRvbid0IHNwYW0geW91IHdpdGggdGhlc2UsIHBsZWFzZSBub3Rl
+IHRoYXQgdGhpcyB3aWxsIHByZXZlbnQgeW91IGZyb20gYmVpbmcgYWJsZSB0byBhY2NlcHQgdGhl
+IE1JVFJFIENWRSBUZXJtcyBvZiBVc2UgdmlhIHRoZSBEV0YgYXV0b21hdGljYWxseSBpbiBmdXR1
+cmUgKHlvdSdsbCBoYXZlIHRvIG1hbnVhbGx5IGFzaykuIEJ1dCBhZ2FpbiwgaWYgeW91IGhhdmUg
+bm8gaWRlYSB3aGF0IGEgQ1ZFIGlzIHRoZW4geW91IGNhbiBpZ25vcmUgdGhpcy9hc2sgdG8gYmUg
+YWRkZWQgdG8gdGhlIGJsb2NrIGxpc3Qgd2l0aCBubyBwcm9ibGVtcy4NCg0KICAgIE1JVFJFIENW
+RSBUZXJtcyBvZiBVc2UNCg0KICAgIExJQ0VOU0UNCg0KICAgIFN1Ym1pc3Npb25zOiBGb3IgYWxs
+IG1hdGVyaWFscyB5b3Ugc3VibWl0IHRvIHRoZSBDb21tb24gVnVsbmVyYWJpbGl0aWVzIGFuZCBF
+eHBvc3VyZXMgKENWRT8/KSwgeW91IGhlcmVieSBncmFudCB0byBUaGUgTUlUUkUgQ29ycG9yYXRp
+b24gKE1JVFJFKSBhbmQgYWxsIENWRSBOdW1iZXJpbmcgQXV0aG9yaXRpZXMgKENOQXMpIGEgcGVy
+cGV0dWFsLCB3b3JsZHdpZGUsIG5vbi1leGNsdXNpdmUsIG5vLWNoYXJnZSwgcm95YWx0eS1mcmVl
+LCBpcnJldm9jYWJsZSBjb3B5cmlnaHQgbGljZW5zZSB0byByZXByb2R1Y2UsIHByZXBhcmUgZGVy
+aXZhdGl2ZSB3b3JrcyBvZiwgcHVibGljbHkgZGlzcGxheSwgcHVibGljbHkgcGVyZm9ybSwgc3Vi
+bGljZW5zZSwgYW5kIGRpc3RyaWJ1dGUgc3VjaCBtYXRlcmlhbHMgYW5kIGRlcml2YXRpdmUgd29y
+a3MuIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3Jp
+dGluZywgeW91IHByb3ZpZGUgc3VjaCBtYXRlcmlhbHMgb24gYW4gIkFTIElTIiBCQVNJUywgV0lU
+SE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNz
+IG9yIGltcGxpZWQsIGluY2x1ZGluZywgd2l0aG91dCBsaW1pdGF0aW9uLCBhbnkgd2FycmFudGll
+cyBvciBjb25kaXRpb25zIG9mIFRJVExFLCBOT04tSU5GUklOR0VNRU5ULCBNRVJDSEFOVEFCSUxJ
+VFksIG9yIEZJVE5FU1MgRk9SIEEgUEFSVElDVUxBUiBQVVJQT1NFLg0KDQogICAgQ1ZFIFVzYWdl
+OiBNSVRSRSBoZXJlYnkgZ3JhbnRzIHlvdSBhIHBlcnBldHVhbCwgd29ybGR3aWRlLCBub24tZXhj
+bHVzaXZlLCBuby1jaGFyZ2UsIHJveWFsdHktZnJlZSwgaXJyZXZvY2FibGUgY29weXJpZ2h0IGxp
+Y2Vuc2UgdG8gcmVwcm9kdWNlLCBwcmVwYXJlIGRlcml2YXRpdmUgd29ya3Mgb2YsIHB1YmxpY2x5
+IGRpc3BsYXksIHB1YmxpY2x5IHBlcmZvcm0sIHN1YmxpY2Vuc2UsIGFuZCBkaXN0cmlidXRlIENv
+bW1vbiBWdWxuZXJhYmlsaXRpZXMgYW5kIEV4cG9zdXJlcyAoQ1ZFPz8pLiBBbnkgY29weSB5b3Ug
+bWFrZSBmb3Igc3VjaCBwdXJwb3NlcyBpcyBhdXRob3JpemVkIHByb3ZpZGVkIHRoYXQgeW91IHJl
+cHJvZHVjZSBNSVRSRSdzIGNvcHlyaWdodCBkZXNpZ25hdGlvbiBhbmQgdGhpcyBsaWNlbnNlIGlu
+IGFueSBzdWNoIGNvcHkuDQoNCiAgICBESVNDTEFJTUVSUw0KDQogICAgQUxMIERPQ1VNRU5UUyBB
+TkQgVEhFIElORk9STUFUSU9OIENPTlRBSU5FRCBUSEVSRUlOIFBST1ZJREVEIEJZIE1JVFJFIEFS
+RSBQUk9WSURFRCBPTiBBTiAiQVMgSVMiIEJBU0lTIEFORCBUSEUgQ09OVFJJQlVUT1IsIFRIRSBP
+UkdBTklaQVRJT04gSEUvU0hFIFJFUFJFU0VOVFMgT1IgSVMgU1BPTlNPUkVEIEJZIChJRiBBTlkp
+LCBUSEUgTUlUUkUgQ09SUE9SQVRJT04sIElUUyBCT0FSRCBPRiBUUlVTVEVFUywgT0ZGSUNFUlMs
+IEFHRU5UUywgQU5EIEVNUExPWUVFUywgRElTQ0xBSU0gQUxMIFdBUlJBTlRJRVMsIEVYUFJFU1Mg
+T1IgSU1QTElFRCwgSU5DTFVESU5HIEJVVCBOT1QgTElNSVRFRCBUTyBBTlkgV0FSUkFOVFkgVEhB
+VCBUSEUgVVNFIE9GIFRIRSBJTkZPUk1BVElPTiBUSEVSRUlOIFdJTEwgTk9UIElORlJJTkdFIEFO
+WSBSSUdIVFMgT1IgQU5ZIElNUExJRUQgV0FSUkFOVElFUyBPRiBNRVJDSEFOVEFCSUxJVFkgT1Ig
+RklUTkVTUyBGT1IgQSBQQVJUSUNVTEFSIFBVUlBPU0UuDQoNCiAgICBBIGNvcHkgaXMgYXZhaWxh
+YmxlIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS9kaXN0cmlidXRlZHdlYWtuZXNzZmlsaW5nL0RXRi1E
+YXRhYmFzZS9ibG9iL21hc3Rlci9UZXJtc09mVXNlLm1kDQoNCiAgICBUbyBjb250YWN0IHRoZSBE
+V0YgZWl0aGVyIGhpdCByZXBseSwgb3IgZW1haWwga3VydEBzZWlmcmllZC5vcmcgbWFudWFsbHkg
+d2l0aCB5b3VyIHF1ZXN0aW9uL2NvbmNlcm5zL2V0Yy4NCg0KDQoNCg0KDQpOT1RJQ0U6IFRoaXMg
+ZS1tYWlsIGlzIG9ubHkgaW50ZW5kZWQgZm9yIHRoZSBwZXJzb24ocykgdG8gd2hvbSBpdCBpcyBh
+ZGRyZXNzZWQgYW5kIG1heSBjb250YWluIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbi4gVW5sZXNz
+IHN0YXRlZCB0byB0aGUgY29udHJhcnksIGFueSBvcGluaW9ucyBvciBjb21tZW50cyBhcmUgcGVy
+c29uYWwgdG8gdGhlIHdyaXRlciBhbmQgZG8gbm90IHJlcHJlc2VudCB0aGUgb2ZmaWNpYWwgdmll
+dyBvZiBSU00gVVMgTExQIG9yIGFueSBvZiBpdHMgYWZmaWxpYXRlcyAoUlNNIFVTKS4gSWYgeW91
+IGhhdmUgcmVjZWl2ZWQgdGhpcyBlLW1haWwgaW4gZXJyb3IsIHBsZWFzZSBub3RpZnkgdXMgaW1t
+ZWRpYXRlbHkgYnkgcmVwbHkgZS1tYWlsIGFuZCB0aGVuIGRlbGV0ZSB0aGlzIG1lc3NhZ2UgZnJv
+bSB5b3VyIHN5c3RlbS4gUGxlYXNlIGRvIG5vdCBjb3B5IGl0IG9yIHVzZSBpdCBmb3IgYW55IHB1
+cnBvc2VzLCBvciBkaXNjbG9zZSBpdHMgY29udGVudHMgdG8gYW55IG90aGVyIHBlcnNvbi4gVGhh
+bmsgeW91IGZvciB5b3VyIGNvb3BlcmF0aW9uLg0KDQpBbnkgYWR2aWNlIG9yIGluZm9ybWF0aW9u
+IGluIHRoZSBib2R5IG9mIHRoaXMgZW1haWwgaXMgc3ViamVjdCB0bywgYW5kIGxpbWl0ZWQgYnks
+IHRoZSB0ZXJtcyBpbiB0aGUgYXBwbGljYWJsZSBlbmdhZ2VtZW50IGxldHRlciBvciBzdGF0ZW1l
+bnQgb2Ygd29yaywgaW5jbHVkaW5nIHByb3Zpc2lvbnMgcmVnYXJkaW5nIHRheCBhZHZpY2UuIFJT
+TSBVUyBpcyBub3QgcmVzcG9uc2libGUgZm9yLCBhbmQgbm8gcGVyc29uIHNob3VsZCByZWx5IHVw
+b24sIGFueSBhZHZpY2Ugb3IgaW5mb3JtYXRpb24gaW4gdGhlIGJvZHkgb2YgdGhpcyBlbWFpbCB1
+bmxlc3Mgc3VjaCBhZHZpY2Ugb3IgaW5mb3JtYXRpb24gcmVsYXRlcyB0byBzZXJ2aWNlcyBjb250
+ZW1wbGF0ZWQgYnkgYW4gZW5nYWdlbWVudCBsZXR0ZXIgb3Igc3RhdGVtZW50IG9mIHdvcmsgaW4g
+ZWZmZWN0IGJldHdlZW4gc3VjaCBwZXJzb24gYW5kIFJTTSBVUy4NCg==
