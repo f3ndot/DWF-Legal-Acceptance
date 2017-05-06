@@ -47,6 +47,7 @@ dereks@lifeofadishwasher.com
 dgh@bouncycastle.org
 dimitrisplusplus@gmail.com
 dmoppert@redhat.com
+don.gilbert@mautic.com
 ekwan@tyro.com
 elarlang@gmail.com
 email@liamsomerville.com
@@ -146,6 +147,7 @@ scott.tenaglia@invincea.com
 scott@paragonie.com
 sdcampbell68@live.com
 sean.dillon@risksense.com
+security@phpmyadmin.net
 security@rancher.com
 sjglover@gmail.com
 stefan.kanthak@nexgo.de
