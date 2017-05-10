@@ -19,12 +19,15 @@ amies8888test@gmail.com
 an7i21@gmail.com
 anagawat@fb.com
 antirais@gmail.com
+artem.moskowsky@gmail.com
 asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
+bascule@gmail.com
 bazy@safecomp.com
 ben@langfeld.me
 benoit@akeneo.com
 binoy@valuementor.com
+bjorn.lunden@2secure.se
 bmartin@tenable.com
 bshastry@sec.t-labs.tu-berlin.de
 carl@cjc.im
@@ -33,6 +36,7 @@ cert@cert.org
 chenruiqi@360.cn
 christopher.w.clark@gmail.com
 cmpilato@red-bean.com
+coolteygame@gmail.com
 cor3sm4sh3r@gmail.com
 cptest311@frontier.com
 crich@thedefaced.org
@@ -65,6 +69,7 @@ grega.preseren@outlook.com
 griffin.byatt@nccgroup.trust
 grim@reaperworld.com
 guillebrgs@gmail.com
+hakobyan@cmu.edu
 hamedizadi@gmail.com
 hanley.shun@centurioninfosec.sg
 helpme@gmail.com
@@ -74,12 +79,15 @@ huyngocbk@gmail.com
 i.elsayed92@gmail.com
 insaneboarder234@gmail.com
 jared@jaredbeck.com
+jason@modx.com
 jfolkins@threathound.com
 jliggitt@redhat.com
 jody@plot.ly
+johannes.rudolph@lightbend.com
 john.bjorkhaug@nttsecurity.com
 john@betterment.com
 jpv@gumcode.com
+jschoi.2022@gmail.com
 jtjisgod@gmail.com
 justin@justinsteven.com
 kamil.frankowicz@cert.pl
@@ -95,6 +103,7 @@ labs@sysdream.com
 larry0@me.com
 lenonleite@gmail.com
 lhinds@redhat.com
+lionel_debroux@yahoo.fr
 liusscs@163.com
 ljames@flashpoint-intel.com
 lkiesow@uos.de
@@ -119,6 +128,7 @@ mikeycgto@gmail.com
 ml@beckweb.net
 moh_amgad@hotmail.com
 montel.florent@gmail.com
+mp15@sanger.ac.uk
 myvyang@gmail.com
 naveen.velusamy@comodo.com
 neal@fb.com
@@ -150,7 +160,9 @@ sean.dillon@risksense.com
 security@phpmyadmin.net
 security@rancher.com
 sjglover@gmail.com
+spotturu@andrew.cmu.edu
 stefan.kanthak@nexgo.de
+stephan.zeisberg@splone.com
 strparser@gmail.com
 sylvain.corlay@gmail.com
 theblazehen@theblazehen.com
