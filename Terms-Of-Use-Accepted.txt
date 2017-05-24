@@ -31,6 +31,7 @@ bjorn.lunden@2secure.se
 bmartin@tenable.com
 bshastry@sec.t-labs.tu-berlin.de
 carl@cjc.im
+carljordan90@gmail.com
 carnil@debian.org
 cert@cert.org
 chenruiqi@360.cn
@@ -78,6 +79,7 @@ hongkun.zeng@dbappsecurity.com.cn
 hsadkhk@gmail.com
 huyngocbk@gmail.com
 i.elsayed92@gmail.com
+info@mahara.org
 insaneboarder234@gmail.com
 jared@jaredbeck.com
 jason@modx.com
@@ -115,6 +117,7 @@ mail.bourbon@gmail.com
 mail@jensge.org
 marcin@teodorczyk.info
 martin.gubri@framasoft.org
+martin.tenek@gmail.com
 mathias.morbitzer@aisec.fraunhofer.de
 mattd@bugfuzz.com
 matteo@beccati.com
@@ -138,8 +141,10 @@ niteshvai67@gmail.com
 officialyogeshmodi@gmail.com
 parichay1012@gmail.com
 patrick@puiterwijk.org
+pdp@exim.org
 penghua@silence.com.cn
 pkarolak@trustwave.com
+predrag.gruevski@gmail.com
 pwchen@tencent.com
 qazbnm456@gmail.com
 quanyang91@gmail.com
