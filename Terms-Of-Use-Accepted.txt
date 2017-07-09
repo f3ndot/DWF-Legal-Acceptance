@@ -36,6 +36,7 @@ carl@cjc.im
 carljordan90@gmail.com
 carnil@debian.org
 cert@cert.org
+cgincdev@gmail.com
 chenruiqi@360.cn
 christopher.w.clark@gmail.com
 cmpilato@red-bean.com
@@ -61,6 +62,7 @@ email@liamsomerville.com
 emeric.vernat@gmail.com
 exarkun@twistedmatrix.com
 fabian.freyer@physik.tu-berlin.de
+fabian.ullrich@stud.tu-darmstadt.de
 fedor@indutny.com
 filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
