@@ -18,6 +18,7 @@ amaris@redhat.com
 amies8888test@gmail.com
 an7i21@gmail.com
 anagawat@fb.com
+anemec@redhat.com
 antirais@gmail.com
 artem.moskowsky@gmail.com
 asgrant@oakland.edu
@@ -61,6 +62,7 @@ elarlang@gmail.com
 email@liamsomerville.com
 emeric.vernat@gmail.com
 exarkun@twistedmatrix.com
+exploitcat@foxmail.com
 fabian.freyer@physik.tu-berlin.de
 fabian.ullrich@stud.tu-darmstadt.de
 fedor@indutny.com
@@ -68,8 +70,6 @@ filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
-forexploitcat@foxmail.com
-forjavijmor@gmail.com
 gcaminer@flowgate.net
 grega.preseren@outlook.com
 griffin.byatt@nccgroup.trust
@@ -79,6 +79,7 @@ hakobyan@cmu.edu
 hamedizadi@gmail.com
 hanley.shun@centurioninfosec.sg
 hanlins@cmu.edu
+hbuchwald@ripstech.com
 helpme@gmail.com
 hongkun.zeng@dbappsecurity.com.cn
 hsadkhk@gmail.com
@@ -90,6 +91,7 @@ insaneboarder234@gmail.com
 j.singh@sec-consult.com
 jared@jaredbeck.com
 jason@modx.com
+javijmor@gmail.com
 jfolkins@threathound.com
 jliggitt@redhat.com
 joakim.bech@linaro.org
@@ -148,6 +150,7 @@ naveen.velusamy@comodo.com
 neal@fb.com
 ngregory@nyu.edu
 niteshvai67@gmail.com
+nitin.arya@owasp.org
 officialyogeshmodi@gmail.com
 parichay1012@gmail.com
 patrick@puiterwijk.org
@@ -166,6 +169,7 @@ robin.williams@rsmus.com
 rockindaworld207@gmail.com
 rotimiakinyele60@gmail.com
 ruigu@cs.columbia.edu
+s0m30ne@163.com
 sajeeb.lohani@bulletproof.sh
 saloh2@student.monash.edu
 sam@samwhited.com
@@ -201,4 +205,5 @@ wireghoul@gmail.com
 wissambashour@gmail.com
 wykcomputer@gmail.com
 yann.chalencon@gmail.com
+ydahhrk@gmail.com
 zise.shi@dbappsecurity.com.cn
