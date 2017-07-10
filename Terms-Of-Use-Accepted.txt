@@ -74,6 +74,7 @@ gcaminer@flowgate.net
 grega.preseren@outlook.com
 griffin.byatt@nccgroup.trust
 grim@reaperworld.com
+groot@kde.org
 guillebrgs@gmail.com
 hakobyan@cmu.edu
 hamedizadi@gmail.com
@@ -89,9 +90,11 @@ i3roken.heart8@gmail.com
 info@mahara.org
 insaneboarder234@gmail.com
 j.singh@sec-consult.com
+jacksonfylle@gmail.com
 jared@jaredbeck.com
 jason@modx.com
 javijmor@gmail.com
+jaybosamiya@gmail.com
 jfolkins@threathound.com
 jliggitt@redhat.com
 joakim.bech@linaro.org
@@ -122,6 +125,7 @@ ljames@flashpoint-intel.com
 lkiesow@uos.de
 lpu@protonmail.ch
 lukas@nextcloud.com
+m.spahn@metaways.de
 maidou.t00ls@gmail.com
 mail.bourbon@gmail.com
 mail@jensge.org
@@ -144,6 +148,7 @@ ml@beckweb.net
 moh_amgad@hotmail.com
 montel.florent@gmail.com
 mp15@sanger.ac.uk
+mrothbart@nettitude.com
 myvyang@gmail.com
 nafiez.skins@gmail.com
 naveen.velusamy@comodo.com
@@ -152,6 +157,7 @@ ngregory@nyu.edu
 niteshvai67@gmail.com
 nitin.arya@owasp.org
 officialyogeshmodi@gmail.com
+ondrej@sury.org
 parichay1012@gmail.com
 patrick@puiterwijk.org
 pdp@exim.org
@@ -179,6 +185,7 @@ scott.tenaglia@invincea.com
 scott@paragonie.com
 sdcampbell68@live.com
 sean.dillon@risksense.com
+security@openproject.org
 security@phpmyadmin.net
 security@rancher.com
 shiham.wang@gmail.com
@@ -192,6 +199,7 @@ strukt93@gmail.com
 sylvain.corlay@gmail.com
 theblazehen@theblazehen.com
 thom@chef.io
+thomas.gerbet@enalean.com
 thomas@orgis.org
 tom@dxw.com
 tschmid@ernw.de
