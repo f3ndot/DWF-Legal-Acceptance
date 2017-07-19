@@ -80,6 +80,7 @@ hakobyan@cmu.edu
 hamedizadi@gmail.com
 hanley.shun@centurioninfosec.sg
 hanlins@cmu.edu
+hanno@hboeck.de
 hbuchwald@ripstech.com
 helpme@gmail.com
 hongkun.zeng@dbappsecurity.com.cn
@@ -153,6 +154,7 @@ myvyang@gmail.com
 nafiez.skins@gmail.com
 naveen.velusamy@comodo.com
 neal@fb.com
+ned@forallsecure.com
 ngregory@nyu.edu
 niteshvai67@gmail.com
 nitin.arya@owasp.org
@@ -188,6 +190,7 @@ sean.dillon@risksense.com
 security@openproject.org
 security@phpmyadmin.net
 security@rancher.com
+shachy12@gmail.com
 shiham.wang@gmail.com
 sjglover@gmail.com
 songkun2008@gmail.com
@@ -209,6 +212,7 @@ uriahl@jfrog.com
 us3r777@n0b0.so
 viccon@126.com
 vuln_reporter@srcms.xyz
+wangyihanger@gmail.com
 wireghoul@gmail.com
 wissambashour@gmail.com
 wykcomputer@gmail.com
