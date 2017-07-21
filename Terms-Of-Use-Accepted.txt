@@ -143,9 +143,11 @@ mbrooks@snap.com
 mcatanzaro@gnome.org
 mcatanzaro@igalia.com
 me@cydrobolt.com
+mgerstner@suse.de
 micaksica@gmx.com
 mikeycgto@gmail.com
 ml@beckweb.net
+mmo@semmle.com
 moh_amgad@hotmail.com
 montel.florent@gmail.com
 mp15@sanger.ac.uk
