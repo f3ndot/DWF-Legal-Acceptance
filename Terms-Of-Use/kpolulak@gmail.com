@@ -1,88 +1,86 @@
 Delivered-To: kurt@seifried.org
-Received: by 10.103.27.130 with SMTP id b124csp1369652vsb;
-        Fri, 18 Aug 2017 19:18:59 -0700 (PDT)
-X-Received: by 10.202.245.10 with SMTP id t10mr16815307oih.59.1503109139016;
-        Fri, 18 Aug 2017 19:18:59 -0700 (PDT)
-ARC-Seal: i=1; a=rsa-sha256; t=1503109139; cv=none;
+Received: by 10.103.27.130 with SMTP id b124csp1101066vsb;
+        Fri, 18 Aug 2017 12:31:59 -0700 (PDT)
+X-Received: by 10.46.87.93 with SMTP id r29mr3693765ljd.8.1503084719749;
+        Fri, 18 Aug 2017 12:31:59 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1503084719; cv=none;
         d=google.com; s=arc-20160816;
-        b=Hz6zAfYWDn38V0GpT/DWjAIh/Pwe6hos9CJNfrJp3pgtxAD247jufFU9NwQSCTQg5e
-         XBRfU3ieDf8MY8MbLBdnSEgrzt7dRL1+TAg6DazHg4rj2dJI7DNN3A/C8Av74nloLSdM
-         mNbrCoYz97/LDB/DNBsUE/a1KudBF5gYkwVI/l3c2b74dgJs8iws2R+Q++OML1VdCCVQ
-         mwz1YZjACZ3iri+DCDcBHS721IDN8o2sX3s4E4OLc9ksabiyIfsQq1bL1LNyRI3hD+Ad
-         BWl9BaOywa+seO/dOWImylUmd9Fyr+J3iGjEOe4qmH0U37Q/mj3Az5irPSi8nG/ZF8wh
-         L3/w==
+        b=l8x0qpiotE7PxRTtX8TgK1PAEAB4Uyys9EcLVQx7gzo5rva2MmleLARitZkmKJ37qt
+         YVG2vhcz24fPZPNua51MXrKnQTJvHbudBTliWOie0lUzkB/w3Rt+IxCdbGjTVQ8thHpD
+         S+kz8VCX7EzzpKKQRobrOV9Bb6foPONAn8yWD21fNyxcUtpAXiVLLtYawUSnq7Ikf3l3
+         xC2hPWyTckxnm4SNtKR8d67PyIjb5uGlFMfTcXaq1JSErg25yTIXX+qdolU7sudUVRcQ
+         A+oDny82VLvYkHK6Yt4yBqI2sBVV2vGdM/5ODrSpNkYNcOUCFAXpU7H1r4eejRlB63dZ
+         8Jew==
 ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
         h=to:subject:message-id:date:from:references:in-reply-to:mime-version
          :dkim-signature:arc-authentication-results;
-        bh=opGt7yzU1sUMoNQpE7Pwb3OYEHx+nRoCmMHUEk+1UKQ=;
-        b=JC8I2+TaXIEDYJ3wHadIyYTgowHu+c8ap4+frksRDVCKl27FYtUXKNkRRdhKuuCR4R
-         YomgW4q29a+HfnyIrl2cmdEIWKHVzGCQruNekVaDSVX0YTbULGGb28SCzN3wbaQEsiKH
-         eF00WZ/mIM47NVwW/uwEOHiSqldOLvVJ5nAZuhrtX7R+rNnJpxXqfd+C6UT7O6iKGs1x
-         8f21816lCI0OADah7gKqXtdrHIec7FULA+7UZdEwXxEjr8qEmKczkhHsGsfq2VHLHcCL
-         vMqzVbLuDE6Qh2m2ITs7dnSTCB7ElkYH94o/2vApE156yS/+k7sjEUNnAUX754HafO+M
-         sHGg==
+        bh=fs+q+9pJNjnuvzfCxS+mYSqpOEtC8tzWiW7TcFdpIG8=;
+        b=V8iV4E553R032TWalFgna9tV4ixBizjg+e9ucLFbN8sZbfeRsf8YkfwOM7y33ibMaB
+         1caJBXSFV5l8wdqjnOXQfsDPfJYlQBboJzU/dVCtI+NQBC4je1RxWgl6owMorJMLsv23
+         nP8XMP4WTgU0OpgKO6sAM7oI6xjAlnHWP0/dsNQCAFSMic9qoCslVO5FzV7/N040Iu1L
+         pr0oUKY4/OD9wADwMwJHmfT0de6KrZJS60r7l4fqL05a5+w8gbB5nedl7XVQ3rQ/zce7
+         QBNLvbkndWCBB0SOV2LJUi5phWngqUBRvpGfLACMQvjnh7u1WHnR5sCanp2e2qCE42NU
+         v4ww==
 ARC-Authentication-Results: i=1; mx.google.com;
-       dkim=pass header.i=@gmail.com header.s=20161025 header.b=U9fRf2Fs;
-       spf=pass (google.com: domain of qazbnm456@gmail.com designates 2607:f8b0:4003:c06::236 as permitted sender) smtp.mailfrom=qazbnm456@gmail.com;
+       dkim=pass header.i=@gmail.com header.s=20161025 header.b=My93oNaf;
+       spf=pass (google.com: domain of kpolulak@gmail.com designates 2a00:1450:4010:c07::231 as permitted sender) smtp.mailfrom=kpolulak@gmail.com;
        dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gmail.com
-Return-Path: <qazbnm456@gmail.com>
-Received: from mail-oi0-x236.google.com (mail-oi0-x236.google.com. [2607:f8b0:4003:c06::236])
-        by mx.google.com with ESMTPS id d66si5392582oig.254.2017.08.18.19.18.58
+Return-Path: <kpolulak@gmail.com>
+Received: from mail-lf0-x231.google.com (mail-lf0-x231.google.com. [2a00:1450:4010:c07::231])
+        by mx.google.com with ESMTPS id d9si2898161lfk.180.2017.08.18.12.31.59
         for <kurt@seifried.org>
         (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
-        Fri, 18 Aug 2017 19:18:58 -0700 (PDT)
-Received-SPF: pass (google.com: domain of qazbnm456@gmail.com designates 2607:f8b0:4003:c06::236 as permitted sender) client-ip=2607:f8b0:4003:c06::236;
+        Fri, 18 Aug 2017 12:31:59 -0700 (PDT)
+Received-SPF: pass (google.com: domain of kpolulak@gmail.com designates 2a00:1450:4010:c07::231 as permitted sender) client-ip=2a00:1450:4010:c07::231;
 Authentication-Results: mx.google.com;
-       dkim=pass header.i=@gmail.com header.s=20161025 header.b=U9fRf2Fs;
-       spf=pass (google.com: domain of qazbnm456@gmail.com designates 2607:f8b0:4003:c06::236 as permitted sender) smtp.mailfrom=qazbnm456@gmail.com;
+       dkim=pass header.i=@gmail.com header.s=20161025 header.b=My93oNaf;
+       spf=pass (google.com: domain of kpolulak@gmail.com designates 2a00:1450:4010:c07::231 as permitted sender) smtp.mailfrom=kpolulak@gmail.com;
        dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gmail.com
-Received: by mail-oi0-x236.google.com with SMTP id e124so113063434oig.2
-        for <kurt@seifried.org>; Fri, 18 Aug 2017 19:18:58 -0700 (PDT)
+Received: by mail-lf0-x231.google.com with SMTP id y15so46429012lfd.5
+        for <kurt@seifried.org>; Fri, 18 Aug 2017 12:31:59 -0700 (PDT)
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
         d=gmail.com; s=20161025;
         h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
-        bh=opGt7yzU1sUMoNQpE7Pwb3OYEHx+nRoCmMHUEk+1UKQ=;
-        b=U9fRf2FsFO1oIWIMAdMKmFogIIFqqT81YexeCaxYJHLTOZVX53eDqfiWejLUD8Dx6t
-         SiNWOQY1/YeSLhxsZGeN2l0R2D/YFvQFJLVWwcgMjlGHAm4bGy58aOwDK+qaE/DKqC5O
-         /Nkusruvtcwy3mB67NsZS7cczZqr0u1l8I9CzeJmwFLnAQ0vlTqqNUAruQbkG6/kGgkq
-         eMI42ESQ+lArlMQ4DZXfl2i3IWpXZpJgG1SEF0S975BPe6sTUdHatRELd5ihOlSNZyis
-         GLNwasYlA6ZbpJVfYVFfrLjKN2hLEaoHXY8vFTcCrProSxUQ/YZLVID1Lum2VKwyYY6V
-         b5ug==
+        bh=fs+q+9pJNjnuvzfCxS+mYSqpOEtC8tzWiW7TcFdpIG8=;
+        b=My93oNafm0ZpbATaOAJwli2NuJwAx7qE/8+8K7BH/l65gdryvx0rrJVzd8zOCEvoJh
+         EorTYp/1GoDPgmWLI9CIgdVfSrsapJMGGzCOkUhsJUXb/a1+vpffnmUbYuiV7aqsJgjb
+         8smUK5q6WxxhC64AxGI4OMyL3gRbz5MnWgQ2OWyIFKOnRbsZcLM87f2/f8dmD0IPthL6
+         NBSLhkEU3Zd4Hdv5PFm5lzWYrbV30zHQpTz5seuwMBbM6ItacYL55BeNe3uGc3T764PX
+         igTdBa7Y9bqSmAe+YJajfSeNa8Ng6NzozbMP10cXg02EhXa+ESf1ZcUG9M5Mu9WaL5cp
+         6H8w==
 X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
         d=1e100.net; s=20161025;
         h=x-gm-message-state:mime-version:in-reply-to:references:from:date
          :message-id:subject:to;
-        bh=opGt7yzU1sUMoNQpE7Pwb3OYEHx+nRoCmMHUEk+1UKQ=;
-        b=KYfcpGCp1/5+6/nGV/D9X9UAIDDLcw2o/HWpreJWpwGHy3q/QLGkBqQSWDI/Ys1mg5
-         /VzsCKnDdAYXg2+8aheGY0MtTBALdA61EtxvIZsJGE+ncsDGqXr1XQ3gQ/c/5QpUM4fj
-         wTzo8XjdIcAhj5aU57FCDkHl3kl4PfRYWJ8LfADQ9fZTXXMjw5Y5MB7ujMalI8xJN68d
-         DJ1bqW5eKVKr3qmFcYCy3zZCYfGgp23WBTzUu8NtC5kaJxmJsSB7OJ/36+IEG9C6GLu3
-         +0ZdC5rTtwVCIZ7ErjWHwy1BNBjtcLm4FNH9nb0P2epShS+fe99BR7Mo5KnSbx7NYWUx
-         Fvvw==
-X-Gm-Message-State: AHYfb5h/d55LP+c+iMG3vHtkMwrcA0qUlKP4lYme8cAIq/Bj4MhWq5eM
-	2UkHep9SGjx7TFM9OX4j+v0qd0CHlIxNKXE=
-X-Received: by 10.202.188.7 with SMTP id m7mr14527803oif.55.1503109138439;
- Fri, 18 Aug 2017 19:18:58 -0700 (PDT)
+        bh=fs+q+9pJNjnuvzfCxS+mYSqpOEtC8tzWiW7TcFdpIG8=;
+        b=prH8/TkoY1zs5tW/qAtsg47X/r7HyGrb9XcirS+/rqDNRbRNzyOrMrekj6w2e+Uc8S
+         Xzsyu9Du5vmQA/FbGPy4vpEFYkFOKcXQ0PaiADNHVOt2+7rubbIyAtIpQ3YnbXPsUEP/
+         2s2c1QZB/gNrMo8aGN2mODctdwi3rZilzAloBtEcAhxXteHpVGmL14AALF8RAjaozGQq
+         IMUxg64nW3tHu4OqDYa61vVJ/rBH7K3RnhyJXaRb86Nm9NSLu6n+TanQgUx9XzgtM14M
+         L0HcUa3mMVYkBsYrPejjK5JB+Omr8JF1nCw8/lbJGLXq3mCLy6yNTIsNy7a9Y/zHq/5D
+         NpjA==
+X-Gm-Message-State: AHYfb5gr/wfie3HWrKKtaUC+EFuEombWW2Y7yGniV45k5PWDZIMPR+aj
+	zlfIJ/R4MVYYw4MhMTkz77NJx+z+VGEA
+X-Received: by 10.46.2.72 with SMTP id 69mr3607391ljc.113.1503084719097; Fri,
+ 18 Aug 2017 12:31:59 -0700 (PDT)
 MIME-Version: 1.0
-Received: by 10.182.131.129 with HTTP; Fri, 18 Aug 2017 19:18:57 -0700 (PDT)
-In-Reply-To: <20170818193101.55281.45341@shiny-2.local>
-References: <20170818193101.55281.45341@shiny-2.local>
-From: =?UTF-8?B?6JiH5a2457+U?= <qazbnm456@gmail.com>
-Date: Sat, 19 Aug 2017 10:18:57 +0800
-Message-ID: <CAHPMeUpo-bAwPfegCyVNRVp_EiPZzOhwTTvMSgfNuAkxFDFUGQ@mail.gmail.com>
-Subject: Re: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for qazbnm456@gmail.com
-To: Kurt Seifried <kurt@seifried.org>
-Content-Type: multipart/alternative; boundary="001a113dd9f6416226055711de07"
+Received: by 10.46.32.150 with HTTP; Fri, 18 Aug 2017 12:31:58 -0700 (PDT)
+In-Reply-To: <20170818192902.55281.74078@shiny-2.local>
+References: <20170818192902.55281.74078@shiny-2.local>
+From: Kevin Polulak <kpolulak@gmail.com>
+Date: Fri, 18 Aug 2017 15:31:58 -0400
+Message-ID: <CAHRX3kzrS_Tib9y3osd4bo+mQUEQh0U9KFBOLnVN4LoA8wYz7w@mail.gmail.com>
+Subject: Re: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for kpolulak@gmail.com
+To: kurt@seifried.org
+Content-Type: multipart/alternative; boundary="94eb2c057e4abfcd1505570c2e3d"
 
---001a113dd9f6416226055711de07
+--94eb2c057e4abfcd1505570c2e3d
 Content-Type: text/plain; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
 
-Hi, Kurt:
+I accept
 
-I accept the MITRE Terms of Use for CVE, thanks!
-
-2017-08-19 3:31 GMT+08:00 <kurt@seifried.org>:
+On Fri, Aug 18, 2017 at 3:29 PM, <kurt@seifried.org> wrote:
 
 > This is a confirmation email sent from CVE request form at
 > https://iwantacve.org/ asking you to accept the MITRE CVE Terms of Use
@@ -157,33 +155,20 @@ S
 >
 >
 
---001a113dd9f6416226055711de07
+--94eb2c057e4abfcd1505570c2e3d
 Content-Type: text/html; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
 
-<div dir=3D"ltr"><span style=3D"font-size:14px">Hi, Kurt:</span><div style=
-=3D"font-size:14px"><br></div><div style=3D"font-size:14px"><span name=3D"K=
-urt Seifried" class=3D"gmail-m_-8784224299511730546gmail-m_5673173916375670=
-557gmail-gD"><span style=3D"white-space:nowrap">I accept=C2=A0</span></span=
-><span style=3D"font-size:12.8px">the=C2=A0</span><span class=3D"gmail-m_-8=
-784224299511730546gmail-m_5673173916375670557gmail-m_-3042680585122198012gm=
-ail-il" style=3D"font-size:12.8px">MITRE</span><span style=3D"font-size:12.=
-8px">=C2=A0</span><span class=3D"gmail-m_-8784224299511730546gmail-m_567317=
-3916375670557gmail-m_-3042680585122198012gmail-il" style=3D"font-size:12.8p=
-x">Terms</span><span style=3D"font-size:12.8px">=C2=A0of=C2=A0</span><span =
-class=3D"gmail-m_-8784224299511730546gmail-m_5673173916375670557gmail-m_-30=
-42680585122198012gmail-il" style=3D"font-size:12.8px">Use</span><span style=
-=3D"font-size:12.8px">=C2=A0<wbr>for=C2=A0</span><span style=3D"font-size:1=
-2.8px">CVE, thanks!</span></div></div><div class=3D"gmail_extra"><br><div c=
-lass=3D"gmail_quote">2017-08-19 3:31 GMT+08:00  <span dir=3D"ltr">&lt;<a hr=
-ef=3D"mailto:kurt@seifried.org" target=3D"_blank">kurt@seifried.org</a>&gt;=
-</span>:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
-rder-left:1px #ccc solid;padding-left:1ex">This is a confirmation email sen=
-t from CVE request form at <a href=3D"https://iwantacve.org/" rel=3D"norefe=
-rrer" target=3D"_blank">https://iwantacve.org/</a> asking you to accept the=
- MITRE CVE Terms of Use (assuming you filled out the CVE form and want one,=
- we can&#39;t use the data until you accept the MITRE CVE Terms of Use).<br=
->
+<div dir=3D"ltr">I accept<br><div class=3D"gmail_extra"><br><div class=3D"g=
+mail_quote">On Fri, Aug 18, 2017 at 3:29 PM,  <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:kurt@seifried.org" target=3D"_blank">kurt@seifried.org</a>&gt;</=
+span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex">This is a confirmation email=
+ sent from CVE request form at <a href=3D"https://iwantacve.org/" rel=3D"no=
+referrer" target=3D"_blank">https://iwantacve.org/</a> asking you to accept=
+ the MITRE CVE Terms of Use (assuming you filled out the CVE form and want =
+one, we can&#39;t use the data until you accept the MITRE CVE Terms of Use)=
+.<br>
 <br>
 Simply quote the email and reply with &quot;I accept&quot; at the top if yo=
 u agree to the MITRE CVE Terms of Use and we will add a copy of the email t=
@@ -248,6 +233,7 @@ lob/master/<wbr>TermsOfUse.md</a><br>
 To contact the DWF either hit reply, or email <a href=3D"mailto:kurt@seifri=
 ed.org">kurt@seifried.org</a> manually with your question/concerns/etc.<br>
 <br>
-</blockquote></div><br></div>
+</blockquote></div><div><br></div>
+</div></div>
 
---001a113dd9f6416226055711de07--
+--94eb2c057e4abfcd1505570c2e3d--
