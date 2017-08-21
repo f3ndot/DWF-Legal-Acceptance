@@ -12,6 +12,7 @@ adam@apiary.io
 adnan.shammout@live.fi
 adrianbn@gmail.com
 advisories@compass-security.com
+agostino.sarubbo@gmail.com
 ahmadsherif24@gmail.com
 akhil@wesecureapp.com
 alvaro.hoyos@onelogin.com
@@ -39,6 +40,7 @@ carl@cjc.im
 carljordan90@gmail.com
 carnil@debian.org
 cert@cert.org
+cert@intrinsec.com
 cgincdev@gmail.com
 chenruiqi@360.cn
 christopher.w.clark@gmail.com
@@ -80,6 +82,7 @@ griffin.byatt@nccgroup.trust
 grim@reaperworld.com
 groot@kde.org
 guillebrgs@gmail.com
+gy741.kim@gmail.com
 hakobyan@cmu.edu
 hamedizadi@gmail.com
 hanley.shun@centurioninfosec.sg
@@ -182,8 +185,10 @@ parichay1012@gmail.com
 patrick@puiterwijk.org
 pdp@exim.org
 penghua@silence.com.cn
+pilou@gmx.com
 pkarolak@trustwave.com
 predrag.gruevski@gmail.com
+puzzorsj@gmail.com
 pwchen@tencent.com
 qazbnm456@gmail.com
 quanyang91@gmail.com
@@ -205,9 +210,11 @@ scott.tenaglia@invincea.com
 scott@paragonie.com
 sdcampbell68@live.com
 sean.dillon@risksense.com
+sebastian.feldmann.hb@web.de
 sec.9emin1@gmail.com
 security@mercurial-scm.org
 security@openproject.org
+security@otrs.org
 security@phpmyadmin.net
 security@rancher.com
 shachy12@gmail.com
