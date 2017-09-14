@@ -14,6 +14,7 @@ adrianbn@gmail.com
 advisories@compass-security.com
 agostino.sarubbo@gmail.com
 ahmadsherif24@gmail.com
+aj@open.ch
 akhil@wesecureapp.com
 alvaro.hoyos@onelogin.com
 amanion@cert.org
@@ -21,6 +22,7 @@ amaris@redhat.com
 amies8888test@gmail.com
 an7i21@gmail.com
 anagawat@fb.com
+anandkmr27@gmail.com
 anemec@redhat.com
 antirais@gmail.com
 artem.moskowsky@gmail.com
@@ -85,6 +87,7 @@ griffin.byatt@nccgroup.trust
 grim@reaperworld.com
 groot@kde.org
 guillebrgs@gmail.com
+gunnstein.lye@ez.no
 gy741.kim@gmail.com
 hakobyan@cmu.edu
 hamedizadi@gmail.com
@@ -164,6 +167,7 @@ mbrooks@snap.com
 mcatanzaro@gnome.org
 mcatanzaro@igalia.com
 me@cydrobolt.com
+mereportertmp12432@trash-mail.com
 mgerstner@suse.de
 micaksica@gmx.com
 mikeycgto@gmail.com
@@ -233,6 +237,7 @@ stephan.zeisberg@splone.com
 strparser@gmail.com
 strukt93@gmail.com
 sylvain.corlay@gmail.com
+sysadmin@openmicroscopy.org
 theblazehen@theblazehen.com
 thom@chef.io
 thomas.gerbet@enalean.com
