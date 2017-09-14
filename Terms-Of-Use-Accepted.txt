@@ -61,11 +61,14 @@ dgh@bouncycastle.org
 dimitrisplusplus@gmail.com
 dmoppert@redhat.com
 don.gilbert@mautic.com
+donncha@donncha.is
+dwfault@163.com
 dylanishappy1@gmail.com
 ekwan@tyro.com
 elarlang@gmail.com
 email@liamsomerville.com
 emeric.vernat@gmail.com
+etovio@gmail.com
 exarkun@twistedmatrix.com
 exploitcat@foxmail.com
 fabian.freyer@physik.tu-berlin.de
@@ -140,6 +143,7 @@ liusscs@163.com
 ljames@flashpoint-intel.com
 lkiesow@uos.de
 lpu@protonmail.ch
+luanjunchao@163.com
 lukas@nextcloud.com
 m.spahn@metaways.de
 magicsbro@gmail.com
@@ -194,6 +198,7 @@ qazbnm456@gmail.com
 quanyang91@gmail.com
 radimre83@gmail.com
 ramadhan@cybersecurity.my
+rchase@rchase.com
 reed@reedloden.com
 rioru@seraphicsquad.com
 robin.williams@rsmus.com
@@ -212,6 +217,7 @@ sdcampbell68@live.com
 sean.dillon@risksense.com
 sebastian.feldmann.hb@web.de
 sec.9emin1@gmail.com
+security@atlassian.com
 security@mercurial-scm.org
 security@openproject.org
 security@otrs.org
@@ -234,6 +240,7 @@ thomas@orgis.org
 tom@dxw.com
 tschmid@ernw.de
 tyler.price@rsmus.com
+tylerp96@gmail.com
 ulsh@mapbox.com
 uriahl@jfrog.com
 us3r777@n0b0.so
