@@ -28,6 +28,7 @@ antirais@gmail.com
 artem.moskowsky@gmail.com
 asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
+au1ge.xyz@gmail.com
 bascule@gmail.com
 bazy@safecomp.com
 ben@langfeld.me
@@ -38,6 +39,7 @@ bmartin@tenable.com
 bond@casaba.com
 brandon.philips@coreos.com
 bshastry@sec.t-labs.tu-berlin.de
+btiszka@gmail.com
 carl@cjc.im
 carljordan90@gmail.com
 carnil@debian.org
@@ -62,6 +64,7 @@ dereks@lifeofadishwasher.com
 dgh@bouncycastle.org
 dimitrisplusplus@gmail.com
 dmoppert@redhat.com
+dobin.rutishauser@compass-security.com
 don.gilbert@mautic.com
 donncha@donncha.is
 dwfault@163.com
@@ -131,7 +134,9 @@ kamil@frankowicz.me
 keith.lee2012@gmail.com
 kestrel@trylinux.us
 kevinoclam@126.com
+kongwenbin@live.com
 kpolulak@gmail.com
+krzysztof.stopczanski@codilime.com
 kseifried@redhat.com
 kuestatv@gmail.com
 kurt@seifried.org
@@ -191,15 +196,18 @@ olt@omniscale.de
 ondrej@sury.org
 parichay1012@gmail.com
 patrick@puiterwijk.org
+paul-emmanuel.raoul@skyplabs.net
 pdp@exim.org
 penghua@silence.com.cn
 pilou@gmx.com
 pkarolak@trustwave.com
 predrag.gruevski@gmail.com
+przemyslaw.duda@intel.com
 puzzorsj@gmail.com
 pwchen@tencent.com
 qazbnm456@gmail.com
 quanyang91@gmail.com
+r.amizudin@sec-consult.com
 radimre83@gmail.com
 ramadhan@cybersecurity.my
 rchase@rchase.com
@@ -222,9 +230,11 @@ sean.dillon@risksense.com
 sebastian.feldmann.hb@web.de
 sec.9emin1@gmail.com
 security@atlassian.com
+security@dxw.com
 security@mercurial-scm.org
 security@openproject.org
 security@otrs.org
+security@passbolt.com
 security@phpmyadmin.net
 security@rancher.com
 shachy12@gmail.com
@@ -236,6 +246,7 @@ stefan.kanthak@nexgo.de
 stephan.zeisberg@splone.com
 strparser@gmail.com
 strukt93@gmail.com
+suhas_setikere@sutd.edu.sg
 sylvain.corlay@gmail.com
 sysadmin@openmicroscopy.org
 theblazehen@theblazehen.com
@@ -250,6 +261,7 @@ ulsh@mapbox.com
 uriahl@jfrog.com
 us3r777@n0b0.so
 viccon@126.com
+viennadd@gmail.com
 vuln_reporter@srcms.xyz
 wangyihanger@gmail.com
 wireghoul@gmail.com
