@@ -25,6 +25,7 @@ anagawat@fb.com
 anandkmr27@gmail.com
 anemec@redhat.com
 antirais@gmail.com
+antoniociscobg@gmail.com
 artem.moskowsky@gmail.com
 asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
@@ -127,6 +128,7 @@ jfolkins@threathound.com
 jliggitt@redhat.com
 joakim.bech@linaro.org
 jody@plot.ly
+johanna@icir.org
 johannes.rudolph@lightbend.com
 john.bjorkhaug@nttsecurity.com
 john@betterment.com
@@ -152,6 +154,7 @@ l.lucifaer@gmail.com
 labs@sysdream.com
 larry0@me.com
 lenonleite@gmail.com
+leo@famulari.name
 lhinds@redhat.com
 lionel_debroux@yahoo.fr
 liusscs@163.com
@@ -217,6 +220,7 @@ quanyang91@gmail.com
 r.amizudin@sec-consult.com
 radimre83@gmail.com
 ramadhan@cybersecurity.my
+ranjitsingh785@gmail.com
 rchase@rchase.com
 reed@reedloden.com
 rioru@seraphicsquad.com
