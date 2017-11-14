@@ -1,12 +1,14 @@
 651162013@qq.com
-Abiralshrestha100@gmail.com
+CYoung@tripwire.com
 David.Turner@twosigma.com
 Grega.Preseren@snt-svetovanje.si
 Mukhammad.khalilov@helpag.com
 Phk@phk.freebsd.dk
+Reimar.Doeffinger@gmx.de
 Thanat.Sirithawornsant@dionach.com
 aacid@kde.org
 aatlasis@secfu.net
+abiralshrestha100@gmail.com
 adam@apiary.io
 adnan.shammout@live.fi
 adrianbn@gmail.com
@@ -15,7 +17,6 @@ agostino.sarubbo@gmail.com
 ahmadsherif24@gmail.com
 aj@open.ch
 akhil@wesecureapp.com
-alexander.kjall@gmail.com
 alvaro.hoyos@onelogin.com
 amanion@cert.org
 amaris@redhat.com
@@ -37,7 +38,6 @@ binoy@valuementor.com
 bjorn.lunden@2secure.se
 bmartin@tenable.com
 bond@casaba.com
-boothf@boothlabs.me
 brandon.philips@coreos.com
 bshastry@sec.t-labs.tu-berlin.de
 btiszka@gmail.com
@@ -52,11 +52,8 @@ christopher.w.clark@gmail.com
 cmpilato@red-bean.com
 coolteygame@gmail.com
 cor3sm4sh3r@gmail.com
-coreyf@rwell.org
 cptest311@frontier.com
 crich@thedefaced.org
-cve@whitehats.nl
-cyoung@tripwire.com
 daniel@elttam.com.au
 danielbeck@beckweb.net
 danny@snyk.io
@@ -80,6 +77,7 @@ emeric.vernat@gmail.com
 etovio@gmail.com
 exarkun@twistedmatrix.com
 exploitcat@foxmail.com
+eystein.maloy.stenberg@northern.tech
 fabian.freyer@physik.tu-berlin.de
 fabian.ullrich@stud.tu-darmstadt.de
 fedor@indutny.com
@@ -87,7 +85,6 @@ filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
-fortanjingli@shuziguanxing.com
 fwaggle@fwaggle.org
 gcaminer@flowgate.net
 grega.preseren@outlook.com
@@ -113,7 +110,6 @@ i3roken.heart8@gmail.com
 imdb95@gmail.com
 info@mahara.org
 insaneboarder234@gmail.com
-ismail.sec.dev@gmail.com
 j.singh@sec-consult.com
 jacksonfylle@gmail.com
 jakob@kastelo.net
@@ -130,7 +126,6 @@ jody@plot.ly
 johannes.rudolph@lightbend.com
 john.bjorkhaug@nttsecurity.com
 john@betterment.com
-joseph.bisch@gmail.com
 jpv@gumcode.com
 jschoi.2022@gmail.com
 jtjisgod@gmail.com
@@ -160,6 +155,7 @@ lkiesow@uos.de
 lpu@protonmail.ch
 luanjunchao@163.com
 lukas@nextcloud.com
+m.daniel.legall@gmail.com
 m.spahn@metaways.de
 magicsbro@gmail.com
 maidou.t00ls@gmail.com
@@ -195,6 +191,7 @@ naveen.velusamy@comodo.com
 neal@fb.com
 ned@forallsecure.com
 ngregory@nyu.edu
+nhoyadx@gmail.com
 niteshvai67@gmail.com
 nitin.arya@owasp.org
 nullsec.anon@gmail.com
