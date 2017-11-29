@@ -18,6 +18,7 @@ agostino.sarubbo@gmail.com
 ahmadsherif24@gmail.com
 aj@open.ch
 akhil@wesecureapp.com
+alex.gaynor@gmail.com
 alexander.kjall@gmail.com
 alvaro.hoyos@onelogin.com
 amanion@cert.org
@@ -36,6 +37,7 @@ ashutoss@andrew.cmu.edu
 au1ge.xyz@gmail.com
 bascule@gmail.com
 bazy@safecomp.com
+becholey@gmail.com
 ben@langfeld.me
 benoit@akeneo.com
 binoy@valuementor.com
@@ -96,6 +98,7 @@ finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
 fortanjingli@shuziguanxing.com
+franco@opnsense.org
 fwaggle@fwaggle.org
 gcaminer@flowgate.net
 grega.preseren@outlook.com
@@ -127,11 +130,13 @@ jacksonfylle@gmail.com
 jakob@kastelo.net
 jan.ruge@mailbox.org
 jared@jaredbeck.com
+jarrod.farncomb@datacom.com.au
 jason@modx.com
 jasonmagic.cisco@gmail.com
 javi@jpo.cc
 javijmor@gmail.com
 jaybosamiya@gmail.com
+jb@videolan.org
 jfolkins@threathound.com
 jliggitt@redhat.com
 joakim.bech@linaro.org
@@ -255,6 +260,7 @@ sdcampbell68@live.com
 sean.dillon@risksense.com
 sebastian.feldmann.hb@web.de
 sec.9emin1@gmail.com
+secure@veritas.com
 security@atlassian.com
 security@dxw.com
 security@mercurial-scm.org
@@ -295,4 +301,5 @@ wissambashour@gmail.com
 wykcomputer@gmail.com
 yann.chalencon@gmail.com
 ydahhrk@gmail.com
+zhouzhen@nsfocus.com
 zise.shi@dbappsecurity.com.cn
