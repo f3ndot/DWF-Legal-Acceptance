@@ -1,4 +1,40 @@
 Delivered-To: kurt@seifried.org
+<<<<<<< HEAD
+Received: by 10.79.37.80 with SMTP id l77csp2827591ivl;
+        Mon, 6 Nov 2017 05:37:50 -0800 (PST)
+X-Received: by 10.200.55.9 with SMTP id o9mr21480276qtb.36.1509975470895;
+        Mon, 06 Nov 2017 05:37:50 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1509975470; cv=none;
+        d=google.com; s=arc-20160816;
+        b=KawXWRxWnuC955YR/MrwnfciJGM6JAAwdBIjQnPGYXwPDTESPab19U+DlMF7ZXh+lv
+         oInloXEKcbOjxZZWEqyc3Ju1p8JiC2UQWIxSay2jAEmfxswNhwG52BbAOgmE3m2+8ir+
+         PNF+yHvGRWpPtLGet9qntU4j0Fhkn84fVmzgz5Arp6Zpiv6D/reyU4LDvbBq1wvG8Ffg
+         TGCCqNSAEVL8yGUfxeEB3b2FWeHxCw53SI7p0esNgW2aZ76etvXiCtKOksWfvQrQW0S8
+         Mpnh9hhwjLhC7c62UpYN85mq1+B+c1QFTxGHGXVY1YDyUxBmTxKgGU250ql5jOdpkojS
+         Pp3w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:references:in-reply-to:mime-version
+         :dkim-signature:arc-authentication-results;
+        bh=OfgfbhGV9LrmuY+CTALt09Fe4pNRuZfhh8KlQM/l5eg=;
+        b=toREXT+2j0ZfkMsCmvl14vieXdOOqtb630ettV0kH0cxkbeIFh8QBuDs7bSqXP5i3I
+         J9ccClvkyiRETLdrocGojNk3TTl15KsTyYpEZi1+x/UiUA4VubA1oGikQS08eoTRrHqJ
+         g1XClWgQaj38St0PeqBLI7VVuyGkju1hly/IsRy/MY8hRrH8vmgF4QL43EpGQRC4VYhA
+         PfHnKzdunqgE8MIUj1vfJFMtqbwRGZTC9NtkOXLGDWRx9yPtwX5ZA8q1Gru9vZYJhsXJ
+         M5kKxC52zbbb+sowcVLTG5Lg+ZqCZ8w/bChDD8P9HLi21J8EGFgAOxi/WFO4ozvS4B9o
+         NuyQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@scrt-ch.20150623.gappssmtp.com header.s=20150623 header.b=VIh45OgX;
+       spf=pass (google.com: domain of daniel@scrt.ch designates 209.85.220.41 as permitted sender) smtp.mailfrom=daniel@scrt.ch
+Return-Path: <daniel@scrt.ch>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id t56sor7726936qta.117.2017.11.06.05.37.49
+        for <kurt@seifried.org>
+        (Google Transport Security);
+        Mon, 06 Nov 2017 05:37:50 -0800 (PST)
+Received-SPF: pass (google.com: domain of daniel@scrt.ch designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@scrt-ch.20150623.gappssmtp.com header.s=20150623 header.b=VIh45OgX;
+=======
 Received: by 10.79.79.71 with SMTP id d68csp2967197ivb;
         Sun, 19 Nov 2017 11:17:26 -0800 (PST)
 X-Received: by 10.200.6.204 with SMTP id j12mr18090100qth.38.1511119046639;
@@ -33,10 +69,20 @@ Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41]
 Received-SPF: pass (google.com: domain of daniel@scrt.ch designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
 Authentication-Results: mx.google.com;
        dkim=pass header.i=@scrt-ch.20150623.gappssmtp.com header.s=20150623 header.b=xvb1pNJC;
+>>>>>>> 3d1a21d145aac75628b417e510431c17761a56a2
        spf=pass (google.com: domain of daniel@scrt.ch designates 209.85.220.41 as permitted sender) smtp.mailfrom=daniel@scrt.ch
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
         d=scrt-ch.20150623.gappssmtp.com; s=20150623;
         h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+<<<<<<< HEAD
+        bh=OfgfbhGV9LrmuY+CTALt09Fe4pNRuZfhh8KlQM/l5eg=;
+        b=VIh45OgXyArGubGowSnWcwNk5BGWkHlFZt/lSGSDxjs3KVPEcl+/OpZtm0Ua2VgZMC
+         X7gUZjr5/DaS/kAlXWuKR2LY/hVZ9SVbdiRCCdLrESaXqQ2P1JfWxb/dr34BDPTgH4Cl
+         NQIduRD2HNRgLsj3pjtWzdy3QlRxL3qQNXtVJIGGUwhMCvkqSvmQDtuh5yV4avF8/T67
+         nEXya05+kQSjYZEkuvY4PzQtLJ1anms3gVbxJ8TQxySY+Lu3Pn7qkN9f4F/b9EqTwRsi
+         NCfaHOIEo+Y1znDPvcLotvutznVykfWWrKln9D41WNEfF2MDpq83EEZFfxjZsPyldGGl
+         eq2A==
+=======
         bh=uoLJyPHgr8mseobzB6+MTroxg86FwipZfc3Ab3RYdtY=;
         b=xvb1pNJCWu64sFkLTfVYD6dKiQGYTItACO5uQIWOBputyK3PFvQuKrZVFPqtL2gyVf
          6SThVozkgrLYk7MxNCvXKTzmQdwjhvGmmNxytxTJkwy5t7sHdqK43fZnPBmF+G+U/Qre
@@ -44,10 +90,37 @@ DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
          9zu0h+BBCUMzKYeiMzsyJSLgEZh65vszNR4vlnopLiVkH+iHU8QRpu+sxufbHWx1AY46
          J/n5LzgqwqYjMXGfwLDUGOkRZlUHWnQ94AMBurygui0RGHcj2bCe0EzJKE7vBkxBk/eK
          DZLg==
+>>>>>>> 3d1a21d145aac75628b417e510431c17761a56a2
 X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
         d=1e100.net; s=20161025;
         h=x-gm-message-state:mime-version:in-reply-to:references:from:date
          :message-id:subject:to;
+<<<<<<< HEAD
+        bh=OfgfbhGV9LrmuY+CTALt09Fe4pNRuZfhh8KlQM/l5eg=;
+        b=H036pRKXCFMpIDKqkSu+3xy/jukCJI9JJa1bGyDoEF3eT4M3MEXWKns4pO2v1kvSdz
+         oWbslPdC57S7If89RPqo9dYzYzDGJZ1thWl2wbt4nMfKjK1OMLDJCD7Odl0/BP0JJc/h
+         I4Cy6IhicBG2GPL7ndRqlWX2/OQBIU67/O+6l1E+qaGV1Y9drcw2NIdd5z0L2h1pcbeS
+         nJlc3xvyc6Y99kbRhp2Z2YIyxN/zjNhw29TeZ/p9D5QmhraYXtogq01/ByQkp88B11AH
+         gxwtB3mJ+CAMRuXF+VVbq4tQOS8Rtww1infyPUuoxh2esFdGkQ41CXf0KF5pfccOSkyl
+         52fA==
+X-Gm-Message-State: AMCzsaWM7W+++SaABlTJaSDeMc0GXzUgz4p/GIa+POJnf5OIbNBZp8ID
+	X1hzpsrrOzuyEtYlaVXC+MRMueyKtPhP6y6s67nIPDHI3gA=
+X-Google-Smtp-Source: ABhQp+TnzNWgucVMH9yyN/FabpR8cIkY2kCzsQ8B+2FLHavBEZXkdSnJLPDpG8UVAmKKgiOMZb59LZyCzXxEwbZUe0c=
+X-Received: by 10.200.47.85 with SMTP id k21mr23190558qta.286.1509975469449;
+ Mon, 06 Nov 2017 05:37:49 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.140.108.7 with HTTP; Mon, 6 Nov 2017 05:37:49 -0800 (PST)
+In-Reply-To: <20171021210105.19234.87054@shiny-2.local>
+References: <20171021210105.19234.87054@shiny-2.local>
+From: Daniel Le Gall <daniel@scrt.ch>
+Date: Mon, 6 Nov 2017 14:37:49 +0100
+Message-ID: <CAJD1bhvN7AVcC9gXVG+9B=1jttKNzWPHs45-BP9jgmxrseF7iQ@mail.gmail.com>
+Subject: Re: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for daniel@scrt.ch
+To: kurt@seifried.org
+Content-Type: multipart/alternative; boundary="001a1137ae267a0dcf055d508f79"
+
+--001a1137ae267a0dcf055d508f79
+=======
         bh=uoLJyPHgr8mseobzB6+MTroxg86FwipZfc3Ab3RYdtY=;
         b=B2XeQPKMJ4UvfLkADpY8s6+mm7M46ydWdPSHxhsJlrH6qobdebEGtcoWXdh89KMG3Z
          FqLWctI/vhsud1WiGaN/PjVxxWfP5oxYedmKD6o2BgsTeDzQMd+BOcMYvvt8Z13+rK6R
@@ -73,12 +146,17 @@ To: kurt@seifried.org
 Content-Type: multipart/alternative; boundary="94eb2c0e80f0f462a5055e5ad180"
 
 --94eb2c0e80f0f462a5055e5ad180
+>>>>>>> 3d1a21d145aac75628b417e510431c17761a56a2
 Content-Type: text/plain; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
 
 I accept
 
+<<<<<<< HEAD
+2017-10-21 23:01 GMT+02:00 <kurt@seifried.org>:
+=======
 Le 18 nov. 2017 5:40 PM, <kurt@seifried.org> a =C3=A9crit :
+>>>>>>> 3d1a21d145aac75628b417e510431c17761a56a2
 
 > This is a confirmation email sent from CVE request form at
 > https://iwantacve.org/ asking you to accept the MITRE CVE Terms of Use
@@ -153,6 +231,47 @@ S
 >
 >
 
+<<<<<<< HEAD
+
+--=20
+Daniel Le Gall
+Security Engineer
+
+Tel : +41 21 802 64 01 <+41%2021%20802%2064%2001>
+Fax : +41 21 802 64 02 <+41%2021%20802%2064%2002>
+SCRT - Information Security _____________
+Le Tr=C3=A9si 6B
+<https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9v=
+erenges%C2%A0%7C%C2%A0Switzerland&entry=3Dgmail&source=3Dg>
+|
+<https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9v=
+erenges%C2%A0%7C%C2%A0Switzerland&entry=3Dgmail&source=3Dg>
+1028
+Pr=C3=A9verenges
+<https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9v=
+erenges%C2%A0%7C%C2%A0Switzerland&entry=3Dgmail&source=3Dg>
+|
+<https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9v=
+erenges%C2%A0%7C%C2%A0Switzerland&entry=3Dgmail&source=3Dg>
+ Switzerland
+<https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9v=
+erenges%C2%A0%7C%C2%A0Switzerland&entry=3Dgmail&source=3Dg>
+
+--001a1137ae267a0dcf055d508f79
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"font-size:12.8px">I accept</span><br><div c=
+lass=3D"gmail_extra"><br><div class=3D"gmail_quote">2017-10-21 23:01 GMT+02=
+:00  <span dir=3D"ltr">&lt;<a href=3D"mailto:kurt@seifried.org" target=3D"_=
+blank">kurt@seifried.org</a>&gt;</span>:<br><blockquote class=3D"gmail_quot=
+e" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204)=
+;padding-left:1ex">This is a confirmation email sent from CVE request form =
+at <a href=3D"https://iwantacve.org/" rel=3D"noreferrer" target=3D"_blank">=
+https://iwantacve.org/</a> asking you to accept the MITRE CVE Terms of Use =
+(assuming you filled out the CVE form and want one, we can&#39;t use the da=
+ta until you accept the MITRE CVE Terms of Use).<br>
+=======
 --94eb2c0e80f0f462a5055e5ad180
 Content-Type: text/html; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
@@ -166,6 +285,7 @@ rom CVE request form at <a href=3D"https://iwantacve.org/" rel=3D"noreferre=
 r" target=3D"_blank">https://iwantacve.org/</a> asking you to accept the MI=
 TRE CVE Terms of Use (assuming you filled out the CVE form and want one, we=
  can&#39;t use the data until you accept the MITRE CVE Terms of Use).<br>
+>>>>>>> 3d1a21d145aac75628b417e510431c17761a56a2
 <br>
 Simply quote the email and reply with &quot;I accept&quot; at the top if yo=
 u agree to the MITRE CVE Terms of Use and we will add a copy of the email t=
@@ -230,6 +350,43 @@ Legal-Acceptance/blob/master/<wbr>Terms-Of-Use.md</a><br>
 To contact the DWF either hit reply, or email <a href=3D"mailto:kurt@seifri=
 ed.org">kurt@seifried.org</a> manually with your question/concerns/etc.<br>
 <br>
+<<<<<<< HEAD
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div style=3D"color:rgb(136,136,136);font-size:12=
+.8px"><span style=3D"font-size:12.8px">Daniel Le Gall</span><br></div><div =
+style=3D"color:rgb(136,136,136);font-size:12.8px">Security Engineer</div><d=
+iv style=3D"color:rgb(136,136,136);font-size:12.8px"><br></div><div style=
+=3D"color:rgb(136,136,136);font-size:12.8px">Tel :=C2=A0<a href=3D"tel:+41%=
+2021%20802%2064%2001" value=3D"+41218026401" style=3D"color:rgb(17,85,204)"=
+ target=3D"_blank">+41 21 802 64 01</a><br>Fax :=C2=A0<a href=3D"tel:+41%20=
+21%20802%2064%2002" value=3D"+41218026402" style=3D"color:rgb(17,85,204)" t=
+arget=3D"_blank">+41 21 802 64 02</a><br><div style=3D"margin:0px;font-size=
+:13px;line-height:normal;font-family:Arial;color:rgb(177,23,21)">SCRT - Inf=
+ormation Security _____________</div><div style=3D"margin:0px;font-size:13p=
+x;line-height:normal;font-family:Arial"><a href=3D"https://maps.google.com/=
+?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9verenges%C2%A0%7C%C2%A0Swi=
+tzerland&amp;entry=3Dgmail&amp;source=3Dg" style=3D"color:rgb(17,85,204)" t=
+arget=3D"_blank">Le Tr=C3=A9si 6B=C2=A0</a><span style=3D"color:rgb(177,23,=
+21)"><a href=3D"https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A=
+01028+Pr%C3%A9verenges%C2%A0%7C%C2%A0Switzerland&amp;entry=3Dgmail&amp;sour=
+ce=3Dg" style=3D"color:rgb(17,85,204)" target=3D"_blank">|</a></span><a hre=
+f=3D"https://maps.google.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3=
+%A9verenges%C2%A0%7C%C2%A0Switzerland&amp;entry=3Dgmail&amp;source=3Dg" sty=
+le=3D"color:rgb(17,85,204)" target=3D"_blank">=C2=A01028 Pr=C3=A9verenges=
+=C2=A0</a><span style=3D"color:rgb(177,23,21)"><a href=3D"https://maps.goog=
+le.com/?q=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9verenges%C2%A0%7C%C=
+2%A0Switzerland&amp;entry=3Dgmail&amp;source=3Dg" style=3D"color:rgb(17,85,=
+204)" target=3D"_blank">|</a></span><a href=3D"https://maps.google.com/?q=
+=3DLe+Tr%C3%A9si+6B%C2%A0%7C%C2%A01028+Pr%C3%A9verenges%C2%A0%7C%C2%A0Switz=
+erland&amp;entry=3Dgmail&amp;source=3Dg" style=3D"color:rgb(17,85,204)" tar=
+get=3D"_blank">=C2=A0Switzerland</a>=C2=A0</div></div></div></div></div></d=
+iv></div></div></div>
+</div></div>
+
+--001a1137ae267a0dcf055d508f79--
+=======
 </blockquote></div></div>
 
 --94eb2c0e80f0f462a5055e5ad180--
+>>>>>>> 3d1a21d145aac75628b417e510431c17761a56a2
