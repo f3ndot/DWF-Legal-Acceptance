@@ -137,6 +137,7 @@ javi@jpo.cc
 javijmor@gmail.com
 jaybosamiya@gmail.com
 jb@videolan.org
+jd@cpanel.net
 jfolkins@threathound.com
 jliggitt@redhat.com
 joakim.bech@linaro.org
@@ -145,6 +146,7 @@ johanna@icir.org
 johannes.rudolph@lightbend.com
 john.bjorkhaug@nttsecurity.com
 john@betterment.com
+jordan.potti@state.mn.us
 joseph.bisch@gmail.com
 jpv@gumcode.com
 jschoi.2022@gmail.com
@@ -269,6 +271,7 @@ security@otrs.org
 security@passbolt.com
 security@phpmyadmin.net
 security@rancher.com
+security@rocket.chat
 shachy12@gmail.com
 shiham.wang@gmail.com
 sjglover@gmail.com
@@ -276,6 +279,7 @@ songkun2008@gmail.com
 spotturu@andrew.cmu.edu
 stefan.kanthak@nexgo.de
 stephan.zeisberg@splone.com
+stephan@srlabs.de
 strparser@gmail.com
 strukt93@gmail.com
 suhas_setikere@sutd.edu.sg
