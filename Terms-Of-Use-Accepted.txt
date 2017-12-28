@@ -18,6 +18,7 @@ agostino.sarubbo@gmail.com
 ahmadsherif24@gmail.com
 aj@open.ch
 akhil@wesecureapp.com
+alan.hartless@mautic.com
 alex.gaynor@gmail.com
 alexander.kjall@gmail.com
 alvaro.hoyos@onelogin.com
@@ -41,6 +42,7 @@ becholey@gmail.com
 ben@langfeld.me
 benoit@akeneo.com
 binoy@valuementor.com
+bjoern@schuette.se
 bjorn.lunden@2secure.se
 bmartin@tenable.com
 bond@casaba.com
@@ -167,6 +169,7 @@ kuestatv@gmail.com
 kurt@seifried.org
 kyle@bearisdriving.com
 l.lucifaer@gmail.com
+l2dy@icloud.com
 labs@sysdream.com
 lajara.jorge@gmail.com
 larry0@me.com
@@ -232,6 +235,7 @@ pilou@gmx.com
 pkarolak@trustwave.com
 predrag.gruevski@gmail.com
 przemyslaw.duda@intel.com
+psirt@lenovo.com
 psnyde2@uic.edu
 puzzorsj@gmail.com
 pwchen@tencent.com
@@ -270,10 +274,12 @@ security@openproject.org
 security@otrs.org
 security@passbolt.com
 security@phpmyadmin.net
+security@plone.org
 security@rancher.com
 security@rocket.chat
 shachy12@gmail.com
 shiham.wang@gmail.com
+silviavali14@gmail.com
 sjglover@gmail.com
 songkun2008@gmail.com
 spotturu@andrew.cmu.edu
