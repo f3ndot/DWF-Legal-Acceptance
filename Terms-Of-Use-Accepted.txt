@@ -32,6 +32,8 @@ anemec@redhat.com
 antirais@gmail.com
 antoniociscobg@gmail.com
 antukh@opera.com
+arcain.resurrect@gmail.com
+arteau.olivier@gmail.com
 artem.moskowsky@gmail.com
 asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
@@ -64,6 +66,7 @@ cor3sm4sh3r@gmail.com
 coreyf@rwell.org
 cptest311@frontier.com
 crich@thedefaced.org
+cslab223a@gmail.com
 cve@whitehats.nl
 daniel@elttam.com.au
 daniel@scrt.ch
@@ -140,6 +143,7 @@ javijmor@gmail.com
 jaybosamiya@gmail.com
 jb@videolan.org
 jd@cpanel.net
+jens.neureither@gmail.com
 jfolkins@threathound.com
 jliggitt@redhat.com
 joakim.bech@linaro.org
@@ -155,6 +159,7 @@ jschoi.2022@gmail.com
 jtjisgod@gmail.com
 junxzm@hotmail.com
 justin@justinsteven.com
+kaendfinger@gmail.com
 kamil.frankowicz@cert.pl
 kamil@frankowicz.me
 kay_malwarebenchmark@outlook.com
@@ -295,6 +300,7 @@ theblazehen@theblazehen.com
 thom@chef.io
 thomas.gerbet@enalean.com
 thomas@orgis.org
+thomasv@electrum.org
 tom@dxw.com
 tschmid@ernw.de
 tyler.price@rsmus.com
