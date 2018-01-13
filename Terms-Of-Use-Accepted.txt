@@ -7,6 +7,7 @@ Mukhammad.khalilov@helpag.com
 Phk@phk.freebsd.dk
 Reimar.Doeffinger@gmx.de
 Thanat.Sirithawornsant@dionach.com
+a.kruger@psiphon.ca
 aacid@kde.org
 aatlasis@secfu.net
 abiralshrestha100@gmail.com
