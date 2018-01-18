@@ -22,6 +22,7 @@ akhil@wesecureapp.com
 alan.hartless@mautic.com
 alex.gaynor@gmail.com
 alexander.kjall@gmail.com
+alexbirsan@intigriti.me
 alvaro.hoyos@onelogin.com
 amanion@cert.org
 amaris@redhat.com
@@ -284,6 +285,7 @@ security@plone.org
 security@rancher.com
 security@rocket.chat
 shachy12@gmail.com
+shayanqwerty@gmail.com
 shiham.wang@gmail.com
 silviavali14@gmail.com
 sjglover@gmail.com
@@ -297,6 +299,7 @@ strukt93@gmail.com
 suhas_setikere@sutd.edu.sg
 sylvain.corlay@gmail.com
 sysadmin@openmicroscopy.org
+t-beu@users.sourceforge.net
 theblazehen@theblazehen.com
 thom@chef.io
 thomas.gerbet@enalean.com
