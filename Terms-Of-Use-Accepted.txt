@@ -80,6 +80,7 @@ dennis@dety.eu
 derek@thoughtbot.com
 dereks@lifeofadishwasher.com
 dgh@bouncycastle.org
+diego@hernandev.com
 dimitrisplusplus@gmail.com
 dmoppert@redhat.com
 dobin.rutishauser@compass-security.com
@@ -255,6 +256,7 @@ ramadhan@cybersecurity.my
 ranjitsingh785@gmail.com
 rchase@rchase.com
 reed@reedloden.com
+reversebrain@protonmail.com
 riley@mailo.com
 rioru@seraphicsquad.com
 robin.williams@rsmus.com
@@ -323,5 +325,6 @@ wissambashour@gmail.com
 wykcomputer@gmail.com
 yann.chalencon@gmail.com
 ydahhrk@gmail.com
+yeraymathrandom@gmail.com
 zhouzhen@nsfocus.com
 zise.shi@dbappsecurity.com.cn
