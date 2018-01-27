@@ -71,6 +71,7 @@ cptest311@frontier.com
 crich@thedefaced.org
 cslab223a@gmail.com
 cve@whitehats.nl
+cvereq+adv20181@moritz-naumann.com
 daniel@elttam.com.au
 daniel@scrt.ch
 danielbeck@beckweb.net
