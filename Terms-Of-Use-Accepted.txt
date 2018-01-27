@@ -83,6 +83,7 @@ dereks@lifeofadishwasher.com
 dgh@bouncycastle.org
 diego@hernandev.com
 dimitrisplusplus@gmail.com
+dja@axtens.net
 dmoppert@redhat.com
 dobin.rutishauser@compass-security.com
 don.gilbert@mautic.com
@@ -213,6 +214,7 @@ mbrooks@snap.com
 mcatanzaro@gnome.org
 mcatanzaro@igalia.com
 me@cydrobolt.com
+medsgerj@gmail.com
 mereportertmp12432@trash-mail.com
 mgerstner@suse.de
 micaksica@gmx.com
@@ -296,6 +298,7 @@ silviavali14@gmail.com
 sjglover@gmail.com
 songkun2008@gmail.com
 spotturu@andrew.cmu.edu
+squid3@treenet.co.nz
 stefan.kanthak@nexgo.de
 stephan.zeisberg@splone.com
 stephan@srlabs.de
