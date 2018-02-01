@@ -292,6 +292,7 @@ security@phpmyadmin.net
 security@plone.org
 security@rancher.com
 security@rocket.chat
+sfeldmann@teknik.io
 shachy12@gmail.com
 shayanqwerty@gmail.com
 shiham.wang@gmail.com
