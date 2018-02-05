@@ -293,6 +293,7 @@ security@phpmyadmin.net
 security@plone.org
 security@rancher.com
 security@rocket.chat
+security@zammad.com
 sfeldmann@teknik.io
 shachy12@gmail.com
 shayanqwerty@gmail.com
