@@ -152,6 +152,7 @@ jd@cpanel.net
 jens.neureither@gmail.com
 jfolkins@threathound.com
 jliggitt@redhat.com
+jmbourbon@excellium-services.com
 joakim.bech@linaro.org
 jody@plot.ly
 johanna@icir.org
@@ -242,6 +243,7 @@ ondrej@sury.org
 parichay1012@gmail.com
 patrick@puiterwijk.org
 paul-emmanuel.raoul@skyplabs.net
+paul.sokolovsky+cve@linaro.org
 pdp@exim.org
 penghua@silence.com.cn
 pilou@gmx.com
