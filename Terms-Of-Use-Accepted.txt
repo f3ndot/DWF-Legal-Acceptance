@@ -92,6 +92,7 @@ donncha@donncha.is
 drumsmith101@hotmail.com
 dwfault@163.com
 dylanishappy1@gmail.com
+ehashman@debian.org
 ekwan@tyro.com
 elarlang@gmail.com
 email@liamsomerville.com
@@ -108,6 +109,7 @@ filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
+forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
 franco@opnsense.org
 fwaggle@fwaggle.org
@@ -334,6 +336,7 @@ vuln_reporter@srcms.xyz
 wangyihanger@gmail.com
 wireghoul@gmail.com
 wissambashour@gmail.com
+wojciech.regula@securing.pl
 wykcomputer@gmail.com
 xct@r3v3rse.de
 yann.chalencon@gmail.com
