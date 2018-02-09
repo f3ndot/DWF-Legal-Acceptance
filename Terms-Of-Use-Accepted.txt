@@ -109,7 +109,6 @@ filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
-forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
 franco@opnsense.org
 fwaggle@fwaggle.org
@@ -248,6 +247,7 @@ parichay1012@gmail.com
 patrick@puiterwijk.org
 paul-emmanuel.raoul@skyplabs.net
 paul.sokolovsky+cve@linaro.org
+payloads@aliyun.com
 pdp@exim.org
 penghua@silence.com.cn
 pilou@gmx.com
