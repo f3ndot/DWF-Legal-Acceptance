@@ -64,6 +64,7 @@ cgincdev@gmail.com
 chenruiqi@360.cn
 christopher.w.clark@gmail.com
 cmpilato@red-bean.com
+contact@legacysecuritygroup.com
 coolteygame@gmail.com
 cor3sm4sh3r@gmail.com
 coreyf@rwell.org
@@ -219,6 +220,7 @@ mbrooks@snap.com
 mcatanzaro@gnome.org
 mcatanzaro@igalia.com
 me@cydrobolt.com
+medmunds@gmail.com
 medsgerj@gmail.com
 mereportertmp12432@trash-mail.com
 mgerstner@suse.de
@@ -318,6 +320,7 @@ suhas_setikere@sutd.edu.sg
 sylvain.corlay@gmail.com
 sysadmin@openmicroscopy.org
 t-beu@users.sourceforge.net
+terrycwk1994@gmail.com
 theblazehen@theblazehen.com
 thom@chef.io
 thomas.gerbet@enalean.com
