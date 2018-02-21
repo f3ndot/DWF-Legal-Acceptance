@@ -1,3 +1,4 @@
+00theway@gmail.com
 651162013@qq.com
 CYoung@tripwire.com
 David.Turner@twosigma.com
@@ -40,6 +41,7 @@ artem.moskowsky@gmail.com
 asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
 au1ge.xyz@gmail.com
+awels@redhat.com
 bascule@gmail.com
 bazy@safecomp.com
 becholey@gmail.com
@@ -49,6 +51,7 @@ benoit@akeneo.com
 binoy@valuementor.com
 bjoern@schuette.se
 bjorn.lunden@2secure.se
+blackzert@gmail.com
 bmartin@tenable.com
 bond@casaba.com
 boothf@boothlabs.me
