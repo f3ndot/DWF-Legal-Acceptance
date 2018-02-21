@@ -69,6 +69,7 @@ coolteygame@gmail.com
 cor3sm4sh3r@gmail.com
 coreyf@rwell.org
 cptest311@frontier.com
+craig.ingram@salesforce.com
 crich@thedefaced.org
 cslab223a@gmail.com
 cve.tigusoft@gmail.com
@@ -113,6 +114,7 @@ filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
+forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
 franco@opnsense.org
 fwaggle@fwaggle.org
@@ -155,6 +157,7 @@ javijmor@gmail.com
 jaybosamiya@gmail.com
 jb@videolan.org
 jd@cpanel.net
+jelosua@npr.org
 jens.neureither@gmail.com
 jfolkins@threathound.com
 jliggitt@redhat.com
@@ -224,6 +227,7 @@ mbrooks@snap.com
 mcatanzaro@gnome.org
 mcatanzaro@igalia.com
 me@cydrobolt.com
+me@justinbull.ca
 medmunds@gmail.com
 medsgerj@gmail.com
 mereportertmp12432@trash-mail.com
