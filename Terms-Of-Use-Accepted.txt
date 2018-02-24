@@ -127,6 +127,7 @@ gregory.szorc@gmail.com
 griffin.byatt@nccgroup.trust
 grim@reaperworld.com
 groot@kde.org
+gsingh2011@gmail.com
 gtanmaynashte@gmail.com
 guillebrgs@gmail.com
 gunnstein.lye@ez.no
@@ -350,11 +351,13 @@ viccon@126.com
 viennadd@gmail.com
 vuln_reporter@srcms.xyz
 wangyihanger@gmail.com
+whitehatck01@gmail.com
 wireghoul@gmail.com
 wissambashour@gmail.com
 wojciech.regula@securing.pl
 wykcomputer@gmail.com
 xct@r3v3rse.de
+xiao.gong@chaitin.com
 yann.chalencon@gmail.com
 ydahhrk@gmail.com
 yeraymathrandom@gmail.com
