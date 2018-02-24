@@ -123,6 +123,7 @@ franco@opnsense.org
 fwaggle@fwaggle.org
 gcaminer@flowgate.net
 grega.preseren@outlook.com
+gregory.szorc@gmail.com
 griffin.byatt@nccgroup.trust
 grim@reaperworld.com
 groot@kde.org
