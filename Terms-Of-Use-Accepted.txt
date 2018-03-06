@@ -229,6 +229,7 @@ mattd@bugfuzz.com
 matteo@beccati.com
 matthew.sullivan@workiva.com
 matthieu.chevrier@synhack.fr
+mattjoeland@gmail.com
 max@appcanary.com
 maxime@cyberwatch.fr
 mbrooks@snap.com
@@ -331,6 +332,7 @@ squid3@treenet.co.nz
 stefan.kanthak@nexgo.de
 stephan.zeisberg@splone.com
 stephan@srlabs.de
+steve.dower@python.org
 strparser@gmail.com
 strukt93@gmail.com
 suhas_setikere@sutd.edu.sg
