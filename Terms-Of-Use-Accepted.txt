@@ -81,6 +81,7 @@ cve.tigusoft@gmail.com
 cve@whitehats.nl
 cvereq+adv20181@moritz-naumann.com
 daniel@elttam.com.au
+daniel@inversoft.com
 daniel@scrt.ch
 danielbeck@beckweb.net
 danny@snyk.io
@@ -119,6 +120,7 @@ filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
+for3022235906@qq.com
 forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
 franco@opnsense.org
@@ -237,6 +239,7 @@ mcatanzaro@gnome.org
 mcatanzaro@igalia.com
 me@cydrobolt.com
 me@justinbull.ca
+me@spoock.com
 medmunds@gmail.com
 medsgerj@gmail.com
 mereportertmp12432@trash-mail.com
