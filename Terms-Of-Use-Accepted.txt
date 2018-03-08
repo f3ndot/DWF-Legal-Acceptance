@@ -13,7 +13,6 @@ aacid@kde.org
 aatlasis@secfu.net
 abiralshrestha100@gmail.com
 adam@apiary.io
-adnan.shammout@live.fi
 adrianbn@gmail.com
 advisories@compass-security.com
 agostino.sarubbo@gmail.com
