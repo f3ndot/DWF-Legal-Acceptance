@@ -1,4 +1,5 @@
 00theway@gmail.com
+3022235906@qq.com
 651162013@qq.com
 CYoung@tripwire.com
 David.Turner@twosigma.com
@@ -97,6 +98,7 @@ dmoppert@redhat.com
 dobin.rutishauser@compass-security.com
 don.gilbert@mautic.com
 donncha@donncha.is
+dormando@gmail.com
 drumsmith101@hotmail.com
 dwfault@163.com
 dylanishappy1@gmail.com
@@ -214,6 +216,7 @@ ljames@flashpoint-intel.com
 lkiesow@uos.de
 lpu@protonmail.ch
 luanjunchao@163.com
+lucas.carmo@stone.com.br
 lukas@nextcloud.com
 m.daniel.legall@gmail.com
 m.spahn@metaways.de
@@ -230,6 +233,7 @@ mattd@bugfuzz.com
 matteo@beccati.com
 matthew.sullivan@workiva.com
 matthieu.chevrier@synhack.fr
+mattj@odnd.com
 mattjoeland@gmail.com
 max@appcanary.com
 maxime@cyberwatch.fr
@@ -346,6 +350,7 @@ terrycwk1994@gmail.com
 theblazehen@theblazehen.com
 thom@chef.io
 thomas.gerbet@enalean.com
+thomas.ward@owasp.org
 thomas@orgis.org
 thomasv@electrum.org
 tom@dxw.com
