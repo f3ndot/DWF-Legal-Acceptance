@@ -18,6 +18,7 @@ adrianbn@gmail.com
 advisories@compass-security.com
 agostino.sarubbo@gmail.com
 ahmadsherif24@gmail.com
+aidantwoods+dwf@gmail.com
 aj@open.ch
 akhil@wesecureapp.com
 alan.hartless@mautic.com
@@ -68,8 +69,10 @@ cert@intrinsec.com
 cgincdev@gmail.com
 chenruiqi@360.cn
 christopher.w.clark@gmail.com
+cianmce@gmail.com
 cmpilato@red-bean.com
 contact@legacysecuritygroup.com
+coolerlair@gmail.com
 coolteygame@gmail.com
 cor3sm4sh3r@gmail.com
 coreyf@rwell.org
@@ -109,11 +112,14 @@ elarlang@gmail.com
 email@jasonkohles.com
 email@liamsomerville.com
 emeric.vernat@gmail.com
+eprom@toor.si
 etoledano@stone.com.br
 etovio@gmail.com
+everardo.padilla.saca@gmail.com
 exarkun@twistedmatrix.com
 exploitcat@foxmail.com
 eystein.maloy.stenberg@northern.tech
+f3i@t00ls.net
 fabian.freyer@physik.tu-berlin.de
 fabian.ullrich@stud.tu-darmstadt.de
 fdcarl@fdcarl.com
@@ -145,6 +151,7 @@ hanlins@cmu.edu
 hanno@hboeck.de
 hbuchwald@ripstech.com
 helpme@gmail.com
+hkario@redhat.com
 hongkun.zeng@dbappsecurity.com.cn
 hsadkhk@gmail.com
 huyngocbk@gmail.com
@@ -227,6 +234,7 @@ maidou.t00ls@gmail.com
 mail.bourbon@gmail.com
 mail@dmnk.co
 mail@jensge.org
+manhpt2811@gmail.com
 marcin@teodorczyk.info
 martin.gubri@framasoft.org
 martin.tenek@gmail.com
@@ -357,6 +365,7 @@ thomas.gerbet@enalean.com
 thomas.ward@owasp.org
 thomas@orgis.org
 thomasv@electrum.org
+tmilos@gmail.com
 tom@dxw.com
 tschmid@ernw.de
 tyler.price@rsmus.com
