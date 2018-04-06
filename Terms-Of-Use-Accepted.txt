@@ -226,6 +226,7 @@ lkiesow@uos.de
 lpu@protonmail.ch
 luanjunchao@163.com
 lucas.carmo@stone.com.br
+lucascilento1995@gmail.com
 lukas@nextcloud.com
 m.daniel.legall@gmail.com
 m.spahn@metaways.de
@@ -339,6 +340,7 @@ security@rancher.com
 security@rocket.chat
 security@zammad.com
 sfeldmann@teknik.io
+sfowler@redhat.com
 shachy12@gmail.com
 shayanqwerty@gmail.com
 shiham.wang@gmail.com
