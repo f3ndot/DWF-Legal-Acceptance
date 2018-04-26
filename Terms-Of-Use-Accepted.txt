@@ -139,11 +139,13 @@ fortanjingli@shuziguanxing.com
 franco@opnsense.org
 fwaggle@fwaggle.org
 gcaminer@flowgate.net
+glennmcguire9@gmail.com
 grega.preseren@outlook.com
 gregory.szorc@gmail.com
 griffin.byatt@nccgroup.trust
 grim@reaperworld.com
 groot@kde.org
+gsen1993@gmail.com
 gsingh2011@gmail.com
 gtanmaynashte@gmail.com
 guillebrgs@gmail.com
@@ -200,6 +202,7 @@ jtjisgod@gmail.com
 junxzm@hotmail.com
 justin@justinsteven.com
 justin@sensu.io
+justyn@nextwavesolutions.io
 kadatushar@gmail.com
 kaendfinger@gmail.com
 kamil.frankowicz@cert.pl
@@ -241,6 +244,7 @@ maidou.t00ls@gmail.com
 mail.bourbon@gmail.com
 mail@dmnk.co
 mail@jensge.org
+mail@kkoenig.net
 manhpt2811@gmail.com
 marcin@teodorczyk.info
 martin.gubri@framasoft.org
@@ -323,6 +327,7 @@ rwightman@dragos.com
 ryabinin.a.a@gmail.com
 s0m30ne@163.com
 sajeeb.lohani@bulletproof.sh
+sajeeb@0dd.zone
 saloh2@student.monash.edu
 sam@samwhited.com
 sasadeu1@umbc.edu
@@ -355,6 +360,7 @@ shayanqwerty@gmail.com
 shiham.wang@gmail.com
 silviavali14@gmail.com
 sjglover@gmail.com
+skarg@users.sourceforge.net
 songkun2008@gmail.com
 spotturu@andrew.cmu.edu
 squid3@treenet.co.nz
@@ -401,5 +407,6 @@ yann.chalencon@gmail.com
 ydahhrk@gmail.com
 yeraymathrandom@gmail.com
 yzy9952@gmail.com
+zeng.ambulong@gmail.com
 zhouzhen@nsfocus.com
 zise.shi@dbappsecurity.com.cn
