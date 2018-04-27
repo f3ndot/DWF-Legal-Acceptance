@@ -1,0 +1,104 @@
+Delivered-To: kurt@seifried.org
+Received: by 2002:a4f:ca81:0:0:0:0:0 with SMTP id n1-v6csp205748ivl;
+        Thu, 26 Apr 2018 17:44:44 -0700 (PDT)
+X-Google-Smtp-Source: AB8JxZrg5mb++mXLJUjHyrgrzikzTS8HalqbtabhgBzn4lV0XoaZ3GVLfVWK//uEb4iYAWxwEvVo
+X-Received: by 2002:a17:902:b589:: with SMTP id a9-v6mr220601pls.149.1524789884752;
+        Thu, 26 Apr 2018 17:44:44 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1524789884; cv=none;
+        d=google.com; s=arc-20160816;
+        b=V1btOmhKZIzQxN1AJ2WICDjQtkXRANq2dOpwWpG108KdRVku7Cgwgvh/kTVbPOoHa2
+         JvrZiAEFnR/9FA9T+t8XkVGys6A3frJWmsl5RcXRZI9ftzinm7hbpzf2JXnoq9leFn0y
+         UuRfOTfyIR0AjCAZjIAhBCxZkMS41AUa8wk/f30s+6Kmee+ysI029h2Ylnaq121xM3Oc
+         6kX5neZf+ndZkv9hU3jCULQ75yO/MFjY57SG2i36ukcO0DUWmZM90i9i0jyGtl/Wmwbi
+         ZA7OEu88NqtnmZ3tTNRmn0WPGAVaSpVF8yF68RbeZqNe9hBH0l4B0BQ+u9FWIaswUJbh
+         pVBA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:organization:references
+         :in-reply-to:message-id:subject:to:from:date
+         :arc-authentication-results;
+        bh=HXF5ULd3VPAyvb8F9+2Ffvrb35xiOvEqunoawPTlk4Y=;
+        b=Hzvq1s/mi5mC8sqiG5g3vvFkVpZ7CabIZy3JF9WZ7qdoEB2hEgrBJu27WXdR9AB57Z
+         6ZiNNxVRd8MQDdaOcACycHK3S2JoVk/438fhyXpcqO4qs991fXZbII7m7Z2Nyx/MuTaN
+         NBuVQ0oqxKE+gpNXNxLl06Si16OYy06j1wHVxtwc4GBjeUKX+QlZDPT+0vE8uJUewagl
+         w6hhAtefJhsGb5BqA+8KU5Wn05g2jBKV0Ay4GlvaSFMsaWNK0CPklV8NMJW/GMNG38Zw
+         ayvaarsdQh50B8mB/8g+V52IvQieZLqf5JmeD91GOTrnfY2O64bQIF2qXJOowhNDRABy
+         rqpg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=softfail (google.com: domain of transitioning ikeda@conversion.co.jp does not designate 133.242.22.10 as permitted sender) smtp.mailfrom=ikeda@conversion.co.jp
+Return-Path: <ikeda@conversion.co.jp>
+Received: from mx-s01.cvsecurity.jp (mx-s01.cvsecurity.jp. [133.242.22.10])
+        by mx.google.com with ESMTP id v4-v6si105651ply.351.2018.04.26.17.44.44
+        for <kurt@seifried.org>;
+        Thu, 26 Apr 2018 17:44:44 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning ikeda@conversion.co.jp does not designate 133.242.22.10 as permitted sender) client-ip=133.242.22.10;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning ikeda@conversion.co.jp does not designate 133.242.22.10 as permitted sender) smtp.mailfrom=ikeda@conversion.co.jp
+Received: from mx-vc02.cvsecurity.jp (mx-vc02.cvsecurity.jp [59.106.216.77])
+	by mx-s01.cvsecurity.jp (Postfix) with ESMTP id 43E37E10DA
+	for <kurt@seifried.org>; Fri, 27 Apr 2018 09:44:43 +0900 (JST)
+Received: from mx-vc02.cvsecurity.jp (localhost [127.0.0.1])
+	by cvsecurity.viruscheck (Postfix) with ESMTP id 1ADC9E0BC
+	for <kurt@seifried.org>; Fri, 27 Apr 2018 09:44:43 +0900 (JST)
+Received: from cv-spool01.relay-service (cv-spool01.cvserver.jp [133.242.22.55])
+	by mx-vc02.cvsecurity.jp (Postfix) with ESMTP id F0518E117
+	for <kurt@seifried.org>; Fri, 27 Apr 2018 09:44:42 +0900 (JST)
+Received: from ikeda-pc.CV.local (cv-gw01.conversion.co.jp [182.171.85.128])
+	by cv-spool01.relay-service (Postfix) with ESMTPSA id 9CE54E166D;
+	Fri, 27 Apr 2018 09:44:42 +0900 (JST)
+Date: Fri, 27 Apr 2018 09:44:41 +0900
+From: IKEDA Soji <ikeda@conversion.co.jp>
+To: kurt@seifried.org
+Subject: Re: DWF/CVE - Acceptance of MITRE Terms of Use for CVE for
+ ikeda@conversion.co.jp
+Message-Id: <20180427094441.fc62319e77ad807ab49945f6@conversion.co.jp>
+In-Reply-To: <20180426143415.43285.39122@slab.local>
+References: <20180426143415.43285.39122@slab.local>
+Organization: =?ISO-2022-JP?B?GyRCM3Q8MDJxPFIlMyVzJVAhPCU4JWclcxsoQg==?=
+X-Mailer: Sylpheed 3.4.1 (GTK+ 2.10.14; i686-pc-mingw32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+X-TM-AS-MML: No
+
+I accept.
+
+Thank you.
+-- Soji
+
+On Thu, 26 Apr 2018 08:34:15 -0600
+kurt@seifried.org wrote:
+
+> This is a confirmation email sent from CVE request form at https://iwantacve.org/ asking you to accept the MITRE CVE Terms of Use (assuming you filled out the CVE form and want one, we can't use the data until you accept the MITRE CVE Terms of Use). 
+> 
+> Simply quote the email and reply with "I accept" at the top if you agree to the MITRE CVE Terms of Use and we will add a copy of the email to the DWF MITRE CVE Terms of Use acceptance data at https://github.com/distributedweaknessfiling/DWF-Legal-Acceptance/tree/master/Terms-Of-Use
+> 
+> The reason we use a complete copy of the email is that it provides an artifact showing that the email address accepted the Terms of Use, when they were accepted and so on. 
+> 
+> This data cannot be removed from the Internet, or from our git repo. If you are concerned about your personal information (in the form of your email address and any attached information you include like your name) please do not submit it, setup an email address and use that. I cannot comply with GDPR requests to remove your information due to the nature of git, and my inability to confirm if you are a european or not, so if you don't want it in there, don't reply with "I accept". 
+> 
+> If you did not submit a CVE request to the DWF you can safely ignore this message, however we may resend it at some point in the future, if you don't want any future emails simply reply with "unsubscribe" or "DON'T SEND ME THIS EMAIL EVER AGAIN" and I'll add your email address to the block list so we don't spam you with these, please note that this will prevent you from being able to accept the MITRE CVE Terms of Use via the DWF automatically in future (you'll have to manually ask). But again, if you have no idea what a CVE is then you can ignore this/ask to be added to the block list with no problems. 
+> 
+> MITRE CVE Terms of Use
+> 
+> LICENSE
+> 
+> Submissions: For all materials you submit to the Common Vulnerabilities and Exposures (CVE__), you hereby grant to The MITRE Corporation (MITRE) and all CVE Numbering Authorities (CNAs) a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute such materials and derivative works. Unless required by applicable law or agreed to in writing, you provide such materials on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+> 
+> CVE Usage: MITRE hereby grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Common Vulnerabilities and Exposures (CVE__). Any copy you make for such purposes is authorized provided that you reproduce MITRE's copyright designation and this license in any such copy.
+> 
+> DISCLAIMERS
+> 
+> ALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN PROVIDED BY MITRE ARE PROVIDED ON AN "AS IS" BASIS AND THE CONTRIBUTOR, THE ORGANIZATION HE/SHE REPRESENTS OR IS SPONSORED BY (IF ANY), THE MITRE CORPORATION, ITS BOARD OF TRUSTEES, OFFICERS, AGENTS, AND EMPLOYEES, DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION THEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+> 
+> A copy is available at https://github.com/distributedweaknessfiling/DWF-Legal-Acceptance/blob/master/Terms-Of-Use.md
+> 
+> To contact the DWF either hit reply, or email kurt@seifried.org manually with your question/concerns/etc. 
+> 
+
+
+-- 
+株式会社 コンバージョン
+ITソリューション部 システムソリューション1グループ 池田荘児
+〒140-0014 東京都品川区大井1-49-15 アクセス大井町ビル4F
+e-mail support@conversion.co.jp  TEL 03-6429-2880
+https://www.conversion.co.jp/
