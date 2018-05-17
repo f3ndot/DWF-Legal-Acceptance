@@ -53,6 +53,7 @@ becholey@gmail.com
 ben.hutchings@codethink.co.uk
 ben@langfeld.me
 benoit@akeneo.com
+bgonzalez@unicon.net
 binoy@valuementor.com
 bjoern@schuette.se
 bjorn.lunden@2secure.se
@@ -167,6 +168,7 @@ i.elsayed92@gmail.com
 i.rithwik@protonmail.com
 i3roken.heart8@gmail.com
 ikeda@conversion.co.jp
+illya@iluxonchik.me
 imdb95@gmail.com
 info@mahara.org
 insaneboarder234@gmail.com
