@@ -85,6 +85,7 @@ cptest311@frontier.com
 craig.ingram@salesforce.com
 crich@thedefaced.org
 cslab223a@gmail.com
+cve-dwf-request@leo.gaspard.io
 cve.tigusoft@gmail.com
 cve@unsecure.blog
 cve@whitehats.nl
@@ -254,6 +255,7 @@ manhpt2811@gmail.com
 marcin@teodorczyk.info
 martin.gubri@framasoft.org
 martin.tenek@gmail.com
+mateusz.stahl@intive.com
 mathias.morbitzer@aisec.fraunhofer.de
 mattd@bugfuzz.com
 matteo@beccati.com
@@ -366,6 +368,7 @@ shachy12@gmail.com
 shayanqwerty@gmail.com
 shiham.wang@gmail.com
 silviavali14@gmail.com
+siva.infosec@gmail.com
 sjglover@gmail.com
 skarg@users.sourceforge.net
 songkun2008@gmail.com
@@ -401,6 +404,7 @@ us3r777@n0b0.so
 viccon@126.com
 viennadd@gmail.com
 vuln_reporter@srcms.xyz
+vulncoord@ficora.fi
 wangyihanger@gmail.com
 whitehatck01@gmail.com
 wireghoul@gmail.com
