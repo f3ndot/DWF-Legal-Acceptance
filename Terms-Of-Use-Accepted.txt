@@ -17,6 +17,7 @@ abiralshrestha100@gmail.com
 adam@apiary.io
 adrianbn@gmail.com
 advisories@compass-security.com
+aead@mail.de
 agostino.sarubbo@gmail.com
 agwa@andrewayer.name
 ahmadsherif24@gmail.com
@@ -243,6 +244,7 @@ luanjunchao@163.com
 lucas.carmo@stone.com.br
 lucascilento1995@gmail.com
 lukas@nextcloud.com
+luto@kernel.org
 m.daniel.legall@gmail.com
 m.spahn@metaways.de
 magicsbro@gmail.com
@@ -324,6 +326,7 @@ ranjitsingh785@gmail.com
 rchase@rchase.com
 reed@reedloden.com
 reversebrain@protonmail.com
+ricardobgoncales@gmail.com
 riley@mailo.com
 rioru@seraphicsquad.com
 robin.verton@telekom.de
