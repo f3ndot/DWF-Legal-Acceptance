@@ -48,6 +48,7 @@ asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
 au1ge.xyz@gmail.com
 awels@redhat.com
+bartdewater@gmail.com
 bascule@gmail.com
 bazy@safecomp.com
 becholey@gmail.com
@@ -167,6 +168,7 @@ hongkun.zeng@dbappsecurity.com.cn
 hsadkhk@gmail.com
 huyngocbk@gmail.com
 i.elsayed92@gmail.com
+i.partridge@uk.ibm.com
 i.rithwik@protonmail.com
 i3roken.heart8@gmail.com
 ikeda@conversion.co.jp
@@ -404,6 +406,7 @@ tylerp96@gmail.com
 ulsh@mapbox.com
 uriahl@jfrog.com
 us3r777@n0b0.so
+v.tyukhmenev@bi.zone
 viccon@126.com
 viennadd@gmail.com
 vuln_reporter@srcms.xyz
