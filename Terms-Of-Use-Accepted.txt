@@ -259,6 +259,7 @@ manhpt2811@gmail.com
 marcin@teodorczyk.info
 martin.gubri@framasoft.org
 martin.tenek@gmail.com
+mateusz.stahl@codeblanc.it
 mateusz.stahl@intive.com
 mathias.morbitzer@aisec.fraunhofer.de
 mattd@bugfuzz.com
