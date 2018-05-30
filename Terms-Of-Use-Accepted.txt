@@ -1,6 +1,7 @@
 00theway@gmail.com
 0x00fi@protonmail.com
 3022235906@qq.com
+3ntr0py1337@gmail.com
 651162013@qq.com
 CYoung@tripwire.com
 David.Turner@twosigma.com
@@ -48,6 +49,7 @@ asgrant@oakland.edu
 ashutoss@andrew.cmu.edu
 au1ge.xyz@gmail.com
 awels@redhat.com
+aymeric.augustin@fractalideas.com
 bartdewater@gmail.com
 bascule@gmail.com
 bazy@safecomp.com
@@ -92,6 +94,7 @@ cve.tigusoft@gmail.com
 cve@unsecure.blog
 cve@whitehats.nl
 cvereq+adv20181@moritz-naumann.com
+d.naumenko.a@gmail.com
 daniel@elttam.com.au
 daniel@inversoft.com
 daniel@scrt.ch
@@ -133,11 +136,13 @@ fabian.freyer@physik.tu-berlin.de
 fabian.ullrich@stud.tu-darmstadt.de
 fdcarl@fdcarl.com
 fedor@indutny.com
+fhalva@gmail.com
 filipe.xavier@tempest.com.br
 finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
 for3022235906@qq.com
+forkira_cxy@foxmail.com
 forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
 franco@opnsense.org
@@ -145,6 +150,7 @@ fwaggle@fwaggle.org
 gcaminer@flowgate.net
 glennmcguire9@gmail.com
 grega.preseren@outlook.com
+gregory.draperi@gmail.com
 gregory.szorc@gmail.com
 griffin.byatt@nccgroup.trust
 grim@reaperworld.com
@@ -377,6 +383,7 @@ silviavali14@gmail.com
 siva.infosec@gmail.com
 sjglover@gmail.com
 skarg@users.sourceforge.net
+soeren@glasius.dk
 songkun2008@gmail.com
 spotturu@andrew.cmu.edu
 squid3@treenet.co.nz
