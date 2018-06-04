@@ -124,7 +124,9 @@ elarlang@gmail.com
 email@jasonkohles.com
 email@liamsomerville.com
 emeric.vernat@gmail.com
+engineering@sensu.io
 eprom@toor.si
+eschwartz@archlinux.org
 etoledano@stone.com.br
 etovio@gmail.com
 everardo.padilla.saca@gmail.com
@@ -239,6 +241,7 @@ l2dy@icloud.com
 labs@sysdream.com
 lajara.jorge@gmail.com
 larry0@me.com
+lars@greiz-reinsdorf.de
 lee1001@llnl.gov
 lenonleite@gmail.com
 leo@famulari.name
@@ -383,6 +386,7 @@ shiham.wang@gmail.com
 silviavali14@gmail.com
 siva.infosec@gmail.com
 sjglover@gmail.com
+skanthak@nexgo.de
 skarg@users.sourceforge.net
 soeren@glasius.dk
 songkun2008@gmail.com
