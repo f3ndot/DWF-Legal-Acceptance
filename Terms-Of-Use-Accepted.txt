@@ -29,6 +29,7 @@ alan.hartless@mautic.com
 alerts@whitejaguars.com
 alex.gaynor@gmail.com
 alexander.kjall@gmail.com
+alexander.kuntschik@uni-ulm.de
 alexbirsan@intigriti.me
 alvaro.hoyos@onelogin.com
 amanion@cert.org
@@ -147,6 +148,7 @@ for3022235906@qq.com
 forkira_cxy@foxmail.com
 forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
+fortaoge@5ecurity.cn
 franco@opnsense.org
 fwaggle@fwaggle.org
 gcaminer@flowgate.net
