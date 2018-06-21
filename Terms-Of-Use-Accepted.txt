@@ -279,6 +279,7 @@ martin.tenek@gmail.com
 mateusz.stahl@codeblanc.it
 mateusz.stahl@intive.com
 mathias.morbitzer@aisec.fraunhofer.de
+matt@shadow-vault.com
 mattd@bugfuzz.com
 matteo@beccati.com
 matthew.sullivan@workiva.com
