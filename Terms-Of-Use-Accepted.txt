@@ -40,6 +40,7 @@ amies8888test@gmail.com
 an7i21@gmail.com
 anagawat@fb.com
 anandkmr27@gmail.com
+andrewsh@debian.org
 anemec@redhat.com
 antirais@gmail.com
 antoniociscobg@gmail.com
@@ -78,6 +79,7 @@ cert@cert.org
 cert@intrinsec.com
 cgincdev@gmail.com
 chenruiqi@360.cn
+christof.ferreira.torres@gmail.com
 christopher.w.clark@gmail.com
 chybet4@gmail.com
 cianmce@gmail.com
@@ -216,6 +218,7 @@ john.bjorkhaug@nttsecurity.com
 john@betterment.com
 jordan.potti@state.mn.us
 joseph.bisch@gmail.com
+joseph.m.mcdonagh@gmail.com
 jpv@gumcode.com
 jschoi.2022@gmail.com
 jtjisgod@gmail.com
@@ -300,6 +303,7 @@ ml@beckweb.net
 mmo@semmle.com
 moh_amgad@hotmail.com
 montel.florent@gmail.com
+moreau.indiana@gmail.com
 mp15@sanger.ac.uk
 mrothbart@nettitude.com
 myvyang@gmail.com
@@ -420,6 +424,7 @@ thomasv@electrum.org
 tmilos@gmail.com
 tom@dxw.com
 tschmid@ernw.de
+tuzovakaoff@gmail.com
 tyler.price@rsmus.com
 tylerp96@gmail.com
 ulsh@mapbox.com
