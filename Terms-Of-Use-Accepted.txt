@@ -113,6 +113,7 @@ dereks@lifeofadishwasher.com
 dgh@bouncycastle.org
 diego@hernandev.com
 dimitrisplusplus@gmail.com
+distributedweaknessfiling.org@the-compiler.org
 dja@axtens.net
 dmoppert@redhat.com
 dobin.rutishauser@compass-security.com
