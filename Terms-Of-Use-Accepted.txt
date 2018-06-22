@@ -381,6 +381,7 @@ secure@veritas.com
 security@atlassian.com
 security@dxw.com
 security@mercurial-scm.org
+security@mycroft.ai
 security@openproject.org
 security@otrs.org
 security@passbolt.com
