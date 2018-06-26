@@ -427,6 +427,7 @@ thomas.ward@owasp.org
 thomas@orgis.org
 thomasv@electrum.org
 tmilos@gmail.com
+toan.nguyen@techlabcorp.com
 tom@dxw.com
 tschmid@ernw.de
 tuzovakaoff@gmail.com
