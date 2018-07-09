@@ -48,6 +48,7 @@ antoniociscobg@gmail.com
 antukh@opera.com
 arcain.resurrect@gmail.com
 ariel@twistlock.com
+art-dev@jfrog.com
 arteau.olivier@gmail.com
 artem.moskowsky@gmail.com
 asgrant@oakland.edu
@@ -152,6 +153,7 @@ finbar.crago@gmail.com
 firace@gmail.com
 florent.daigniere@trustmatta.com
 for3022235906@qq.com
+for577796224@qq.com
 forkira_cxy@foxmail.com
 forpayloads@aliyun.com
 fortanjingli@shuziguanxing.com
@@ -334,6 +336,7 @@ paul.sokolovsky+cve@linaro.org
 payloads@aliyun.com
 pdp@exim.org
 penghua@silence.com.cn
+petr.spacek@nic.cz
 pilou@gmx.com
 pkarolak@trustwave.com
 predrag.gruevski@gmail.com
@@ -381,6 +384,7 @@ sebastian.feldmann.hb@web.de
 sec.9emin1@gmail.com
 sec@feedyourhead.at
 secure@veritas.com
+security@agel-nash.ru
 security@atlassian.com
 security@dxw.com
 security@mercurial-scm.org
